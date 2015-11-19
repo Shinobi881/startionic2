@@ -1,8 +1,11 @@
 
 <ion-navbar *navbar>
-  <ion-title>Map</ion-title>
+  <ion-title>Media</ion-title>
 </ion-navbar>
-
+<ion-toolbar light>
+  <ion-searchbar primary [(ng-model)]="searchQuery" show-cancel="true" placeholder="Search"></ion-searchbar>
+</ion-toolbar>
 <ion-content>
-  <div id="map"></div>
+    <h2>This is the Media view</h2>
+
 </ion-content>

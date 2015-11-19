@@ -5,12 +5,12 @@ import {ConvertDate} from '../pipes/convert-date';
 import {DateFormat} from '../components/date-format';
 
 @Page({
-  templateUrl: 'app/about/about.html',
+  templateUrl: 'app/action/action.html',
   providers: [Http],
   directives: [DateFormat],
-  pipes: [ConvertDate]
+  // pipes: [ConvertDate]
 })
-export class About {
+export class Action {
   constructor(dataService: DataService) {
     this.conferenceInfo = dataService.getData();
   }
