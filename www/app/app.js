@@ -1,6 +1,5 @@
 import {App, Platform} from 'ionic/ionic';
 import {Tabs} from './tabs/tabs';
-import {Login} from './login/login';
 import './app.scss';
 
 @App({
@@ -8,7 +7,6 @@ import './app.scss';
 })
 class ConferenceApp {
   constructor(platform: Platform) {
-    this.loggedIn = false;
     this.root = Tabs;
 
     // when the platform is ready
@@ -16,9 +14,7 @@ class ConferenceApp {
 
     });
 
-    if (!this.loggedIn) {
-      this.root = Login;
-    }
+    
 
   }
 
