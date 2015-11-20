@@ -7,6 +7,7 @@ import './media.scss';
 })
 export class Media {
   constructor(dataService: DataService) {
+    this.dataService = dataService;
     this.media = null;
     this.soundcloud = null;
   }

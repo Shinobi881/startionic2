@@ -6,11 +6,20 @@
   <ion-searchbar primary [(ng-model)]="searchQuery" show-cancel="true" placeholder="Search"></ion-searchbar>
 </ion-toolbar>
 <ion-content>
-    <!-- <h2>This is the Media view</h2>
-    <div class="list card">
+  <ion-card *ng-for="#stream of soundcloud" class="scstream">
+    <ion-card-content>
+      <ion-list>
+        <ion-header>
+          Soundcloud Stream
+        </ion-header>
+        <ion-item>{{ stream.title }}</ion-item>
+      </ion-list>
+    </ion-card-content>
+  </ion-card>
+</ion-content>
+    <!-- <h2>This is the Media view</h2> -->
+    <!-- <div class="list card">
       <div ng-repeat="stream in allMedia | orderBy: '-date'" on-tap="playMedia()" class=" .md-caption item item-icon-left">
         <i class="icon {{ stream.icon }}"></i>{{ stream.title }}
       </div> 
-    </div>
- -->
-</ion-content>
+    </div> -->
