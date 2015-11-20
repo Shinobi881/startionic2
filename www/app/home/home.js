@@ -1,4 +1,4 @@
-import {NavController, Page, SearchBar, Modal} from 'ionic/ionic';
+import {NavController, Page} from 'ionic/ionic';
 // import {DataService} from '../service/data';
 // import {SessionDetail} from '../session-detail/session-detail';
 // import {FilterSchedules} from '../filter-schedules/filter-schedules';

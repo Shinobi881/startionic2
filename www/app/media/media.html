@@ -9,10 +9,11 @@
   <ion-card *ng-for="#stream of soundcloud" class="scstream">
     <ion-card-content>
       <ion-list>
-        <ion-header>
+        <ion-header (click)="playMedia">
           Soundcloud Stream
         </ion-header>
-        <ion-item>{{ stream.title }}</ion-item>
+        <button ion-item><a (click)="playMedia(stream)" href="{{stream.source}}">{{ stream.title }}</a></button>
+        
       </ion-list>
     </ion-card-content>
   </ion-card>
