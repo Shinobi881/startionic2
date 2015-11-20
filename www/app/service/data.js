@@ -11,6 +11,7 @@ export class DataService {
     this.scheduleInfo = null;
     this.speakers = null;
     this.categories = null;
+    this.soundcloud = null;
   }
 
   retrieveData() {
@@ -42,10 +43,21 @@ export class DataService {
       .subscribe(data => {
         this.categories = data;
       });
+
+    this.http.get('app/data/soundcloud.json')
+      .map(res => res.json())
+      .subscribe(data => {
+        console.log("Data object from soundcloud", data);
+        this.soundcloud = data;
+    });
   }
 
   getData() {
     return this.conferenceInfo;
+  }
+
+  getSoundcloud(){
+     return this.soundcloud;
   }
 
   getSchedule() {

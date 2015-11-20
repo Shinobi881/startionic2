@@ -1,0 +1,3198 @@
+{
+  "news" : {
+    "blogs": [
+      "http://feeds.huffingtonpost.com/c/35496/f/677596/index.rss",
+      "http://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+      "http://feeds.washingtonpost.com/rss/politics",
+      "https://news.vice.com/rss",
+      "http://www.cbsnews.com/latest/rss/main",
+      "http://www.politico.com/rss/congress.xml",
+      "http://www.politico.com/rss/polls.xml",
+      "http://salon.com.feedsportal.com/c/35105/f/648624/index.rss",
+      "http://www.theroot.com/articles.teaser.all.25.rss",
+      "http://www.latinpost.com/rss/archives/archives.xml",
+      "http://www.vox.com/rss/index.xml",
+      "http://www.msnbc.com/feeds/latest",
+      "http://rss.cnn.com/rss/edition_us.rss",
+      "http://www.latimes.com/local/politics/rss2.0.xml",
+      "http://www.forbes.com/real-time/feed2/",
+      "http://www.politifact.com/feeds/articles/truth-o-meter/"
+    ]
+  },
+  "media": {
+    "items": [
+      {
+        "title": "Urban View's Lou Hutt - Pushing education & the Achilles heel of black businesses",
+        "tags" : ["money"],
+        "source": "https://soundcloud.com/siriusxm-news-issues/siriusxm-urban-view-lou-hutt-education-avoiding-the-pitfalls-the-achilles-heel-of-black-businesses?in=siriusxm-news-issues/sets/partyoflincoln"
+      },
+      {
+        "title": "Attorney John Burns on bankruptcy '50 Cent is definitely not broke & he is not stupid'",
+        "tags" : ["money"],
+        "source": "https://soundcloud.com/siriusxm-news-issues/attorney-john-burns-on-bankruptcy-50-cent-is-definitely-not-broke-he-is-not-stupid?in=siriusxm-news-issues/sets/partyoflincoln"
+      },
+      {
+        "title": "Cousin Syl & Financial Advisor Harry Harris - Insurance as a wealth builder",
+        "tags" : ["money"],
+        "source": "https://soundcloud.com/siriusxm-news-issues/insurance-cousinsyl-harryharris-wealth-building"
+      },
+      {
+        "title": "Cousin Syl & Financial Advisor Harry Harris on life insurance do's & don'ts",
+        "tags" : ["money"],
+        "source": "https://soundcloud.com/siriusxm-news-issues/moneypowerrespect-cousin-syl-financial-advisor-harry-harris-on-life-insurance-dos-donts?in=siriusxm-news-issues/sets/partyoflincoln"
+      },
+      {
+        "title": "Ryan C. Mack, Expert Wealth Manager - Getting acclimated to the stock market",
+        "tags" : ["money"],
+        "source": "https://soundcloud.com/siriusxm-news-issues/money-power-respect-true-understanding-getting-acclimated-to-the-stock-market-w-ryan-c-mack?in=siriusxm-news-issues/sets/partyoflincoln"
+      },
+      {
+        "title": "Wealth Manager Ryan C. Mack 'excessive shopping is a problem for both men & women'",
+        "tags" : ["money"],
+        "source": "https://soundcloud.com/siriusxm-news-issues/wealth-manager-ryan-c-mack-excessive-shopping-is-a-problem-for-both-men-women?in=siriusxm-news-issues/sets/partyoflincoln"
+      },
+      {
+        "title": "Ryan C. Mack, Expert Wealth Manager - 'The work is not done after your 9-5",
+        "tags" : ["money"],
+        "source": "https://soundcloud.com/siriusxm-news-issues/money-power-respect-ryan-c-mack-the-work-is-not-done-after-your-9-5?in=siriusxm-news-issues/sets/partyoflincoln"
+      },
+      {
+        "title": "Ryan C. Mack, Author - Budgeting and the negative effects of e-commerce, 'fake money'",
+        "tags" : ["money"],
+        "source": "https://soundcloud.com/siriusxm-news-issues/author-wealth-expert-ryan-c-mack-on-negative-effects-of-e-commerce-fake-money?in=siriusxm-news-issues/sets/partyoflincoln"
+      },
+      {
+        "title": "Ryan C. Mack, Wealth Expert - Everything you need to know about Net Worth",
+        "tags" : ["money"],
+        "source": "https://soundcloud.com/siriusxm-news-issues/moneypowerrespect-ryan-c-mack-everything-you-need-to-know-about-net-worth?in=siriusxm-news-issues/sets/partyoflincoln"
+      },
+      {
+        "title": "Author and Wealth Expert Ryan C. Mack - Community building & economics",
+        "tags" : ["money"],
+        "source": "https://soundcloud.com/siriusxm-news-issues/author-and-wealth-expert-ryan-c-mack-kicks-off-money-power-respect?in=siriusxm-news-issues/sets/partyoflincoln"
+      },
+      {
+        "title": "Civil Rights Attorney Laura Coates - #SandraBland, surviving police encounters, knowing your rights",
+        "tags" : ["power"],
+        "source": "https://soundcloud.com/siriusxm-news-issues/civil-rights-attorney-laura-coates-sandrabland-surviving-police-encounters-knowing-your-rights?in=siriusxm-news-issues/sets/partyoflincoln"
+      },
+      {
+        "title": "Historian & Professor Edward Baptist details how the business of slavery was built",
+        "tags" : ["power"],
+        "source": "https://soundcloud.com/siriusxm-news-issues/historian-professor-edward-baptist-details-how-the-business-of-slavery-was-built?in=siriusxm-news-issues/sets/partyoflincoln"
+      },
+      {
+        "title": "Anna Galland Executive Director of MoveOn.org - Getting active to improve our nation",
+        "tags" : ["power"],
+        "source": "https://soundcloud.com/siriusxm-news-issues/getting-active-to-improve-our-nation-anna-galland-executive-director-of-moveonorg?in=siriusxm-news-issues/sets/partyoflincoln"
+      },
+      {
+        "title": "Historian Kenneth C. Davis - Understanding slavery & America's independence, knowledge is power",
+        "tags" : ["power"],
+        "source": "https://soundcloud.com/siriusxm-news-issues/historian-kenneth-c-davis-understanding-slavery-americas-independence-knowledge-is-power?in=siriusxm-news-issues/sets/partyoflincoln"
+      },
+      {
+        "title": "Brittany Clingen, Ballotpedia.Org - The importance of staying informed about local elections",
+        "tags" : ["power"],
+        "source": "https://soundcloud.com/siriusxm-news-issues/upcoming-local-elections-wbrittany-clingen-senior-writer-at-ballotpeida?in=siriusxm-news-issues/sets/partyoflincoln"
+      },
+      {
+        "title": "Dr. Mary Frances Berry: Solutions & a call to action for all activist",
+        "tags" : ["power"],
+        "source": "https://soundcloud.com/siriusxm-news-issues/solutions-a-call-to-action-for-all-activist-w-dr-mary-frances-berry?in=siriusxm-news-issues/sets/partyoflincoln"
+      },
+      {
+        "title": "MoNique on being in total control of her brand & real ownership",
+        "tags" : ["power"],
+        "source": "https://soundcloud.com/siriusxm-news-issues/monique-on-being-in-total-control-of-her-brand-real-ownership?in=siriusxm-news-issues/sets/partyoflincoln"
+      },
+      {
+        "title": "Maurice Ashley, International Grandmaster of Chess & Author - Life strategies from chess",
+        "tags" : ["power"],
+        "source": "https://soundcloud.com/siriusxm-news-issues/international-grandmaster-of-chess-author-maurice-ashley-life-strategies-from-chess?in=siriusxm-news-issues/sets/partyoflincoln"
+      },
+      {
+        "title": "Marvet Britto, CEO of The Britto Agency - Branding, the impact of good PR & brand deaths",
+        "tags" : ["power"],
+        "source": "https://soundcloud.com/siriusxm-news-issues/marvet-britto-ceo-of-the-britto-agency-the-impact-of-good-pr-brand-deaths?in=siriusxm-news-issues/sets/partyoflincoln"
+      },
+      {
+        "title": "'Black-Ish' Kenya Barris on rise from production assistant to television writer",
+        "tags" : ["power"],
+        "source": "https://soundcloud.com/siriusxm-news-issues/black-ish-kenya-barris-on-rise-from-production-assistant-to-television-writer?in=siriusxm-news-issues/sets/partyoflincoln"
+      },
+      {
+        "title": "Author Ari Berman - Ronald Reagan's legacy, Reaganites agenda, Supreme Court hanging in the balance",
+        "tags" : ["power"],
+        "source": "https://soundcloud.com/siriusxm-news-issues/author-ari-berman-ronald-reagans-legacy-reaganites-agenda-supreme-court-hanging-in-the-balance"
+      },
+      {
+        "title": "Identifying Universal Truths: Race & Social Constructs",
+        "tags" : ["respect"],
+        "source": "https://soundcloud.com/siriusxm-news-issues/identifying-universal-truths-race-social-constructs?in=siriusxm-news-issues/sets/partyoflincoln"
+      },
+      {
+        "title": "Historian Tim Wise - Understanding White Privilege, Matrix Analogy",
+        "tags" : ["respect"],
+        "source": "https://soundcloud.com/siriusxm-news-issues/understanding-white-privilege-a-lesson-by-guest-tim-wise?in=siriusxm-news-issues/sets/partyoflincoln"
+      },
+      {
+        "title": "Activist DeRay explains why he got involved in the movement",
+        "tags" : ["respect"],
+        "source": "https://soundcloud.com/siriusxm-news-issues/after-michael-brown-eric-garner-i-had-to-get-off-my-couch-get-involved-activist-deray?in=siriusxm-news-issues/sets/partyoflincoln"
+      },
+      {
+        "title": "Combat Jack, Podcaster - It's all about Black Excellence",
+        "tags" : ["respect"],
+        "source": "https://soundcloud.com/siriusxm-news-issues/combat-jack-podcaster-its-all-about-black-excellence?in=siriusxm-news-issues/sets/partyoflincoln"
+      },
+      {
+        "title": "David Banner - Black people are Gods people, history is being deprived from us",
+        "tags" : ["respect"],
+        "source": "https://soundcloud.com/siriusxm-news-issues/black-people-are-gods-people-history-is-being-deprived-from-us-david-banner?in=siriusxm-news-issues/sets/partyoflincoln"
+      },
+      {
+        "title": "Filmmaker Dream Hampton breaks down black political capital and true activism",
+        "tags" : ["respect"],
+        "source": "https://soundcloud.com/siriusxm-news-issues/dream-hampton-breaks-down-black-political-capital-and-true-activism?in=siriusxm-news-issues/sets/partyoflincoln"
+      },
+      {
+        "title": "Actor & Producer Bill Duke on understanding the colorism rhetoric",
+        "tags" : ["respect"],
+        "source": "https://soundcloud.com/siriusxm-news-issues/actor-producer-bill-duke-on-understanding-the-colorism-rhetoric?in=siriusxm-news-issues/sets/partyoflincoln"
+      },
+      {
+        "title": "Rahiel Tesfamariam, social activist - #NotOneDime Black Friday protest success",
+        "tags" : ["respect"],
+        "source": "https://soundcloud.com/siriusxm-news-issues/notonedime-black-friday-protest-success-w-rahiel-tesfamariam?in=siriusxm-news-issues/sets/partyoflincoln"
+      },
+      {
+        "title": "Jasiri X on being an independent socially conscious hip hop artist, On Rise Tea Party Anthem",
+        "tags" : ["respect"],
+        "source": "https://soundcloud.com/siriusxm-news-issues/jasiri-x-on-being-an-indepedent-socially-co"
+      }
+    ],
+    "soundcloud" : [  
+      {  
+        "kind":"track",
+        "id":229269334,
+        "created_at":"2015/10/20 16:01:02 +0000",
+        "user_id":176638756,
+        "duration":279928,
+        "commentable":true,
+        "state":"finished",
+        "original_content_size":11191999,
+        "last_modified":"2015/10/20 16:01:03 +0000",
+        "sharing":"public",
+        "tag_list":"Race Society",
+        "permalink":"activist-deray-explains-why-he-got-involved-in-the-movement",
+        "streamable":true,
+        "embeddable_by":"all",
+        "downloadable":false,
+        "purchase_url":"https://streaming.siriusxm.com/?%2Fflepz=true&campaign=SCNews&utm_campaign=SocialFreeTrial2013&utm_medium=SoundCloud&utm_source=SocialFTSCNews#_frmAccountLookup",
+        "label_id":null,
+        "purchase_title":"FREE SiriusXM Trial",
+        "genre":"Black Lives Matter",
+        "title":"Activist DeRay explains why he got involved in the movement",
+        "description":"The Karen Hunter Show teaches the keys to entrepreneurial success in the industries of sports, politics, entertainment and so much more, directly from the celebrities and civilians who have personally created brands from the ground up.\n\nHear the Karen Hunter Show on SiriusXM Urban View on-demand, channel 126 www.siriusxm.com/ondemand. Follow Karen Hunter at twitter.com/karenhunter\n",
+        "label_name":null,
+        "release":null,
+        "track_type":null,
+        "key_signature":null,
+        "isrc":null,
+        "video_url":null,
+        "bpm":null,
+        "release_year":null,
+        "release_month":null,
+        "release_day":null,
+        "original_format":"mp3",
+        "license":"all-rights-reserved",
+        "uri":"https://api.soundcloud.com/tracks/229269334",
+        "user":{  
+          "id":176638756,
+          "kind":"user",
+          "permalink":"user-967907311",
+          "username":"Karen Hunter Show",
+          "last_modified":"2015/10/20 18:30:20 +0000",
+          "uri":"https://api.soundcloud.com/users/176638756",
+          "permalink_url":"http://soundcloud.com/user-967907311",
+          "avatar_url":"https://i1.sndcdn.com/avatars-000178926063-noy22k-large.jpg"
+        },
+        "permalink_url":"http://soundcloud.com/user-967907311/activist-deray-explains-why-he-got-involved-in-the-movement",
+        "artwork_url":"https://i1.sndcdn.com/artworks-000133352693-btrh0c-large.jpg",
+        "waveform_url":"https://w1.sndcdn.com/Hc9ftOHaSKl3_m.png",
+        "stream_url":"https://api.soundcloud.com/tracks/229269334/stream",
+        "playback_count":17,
+        "download_count":0,
+        "favoritings_count":0,
+        "comment_count":0,
+        "attachments_uri":"https://api.soundcloud.com/tracks/229269334/attachments",
+        "policy":"ALLOW",
+        "monetization_model":"NOT_APPLICABLE"
+      },
+      {  
+        "kind":"track",
+        "id":229269010,
+        "created_at":"2015/10/20 15:58:43 +0000",
+        "user_id":176638756,
+        "duration":278099,
+        "commentable":true,
+        "state":"finished",
+        "original_content_size":6670201,
+        "last_modified":"2015/10/20 15:58:44 +0000",
+        "sharing":"public",
+        "tag_list":"",
+        "permalink":"cousin-syl-financial-advisor-harry-harris-on-life-insurance-dos-donts-1",
+        "streamable":true,
+        "embeddable_by":"all",
+        "downloadable":false,
+        "purchase_url":"https://streaming.siriusxm.com/?%2Fflepz=true&campaign=SCNews&utm_campaign=SocialFreeTrial2013&utm_medium=SoundCloud&utm_source=SocialFTSCNews#_frmAccountLookup",
+        "label_id":null,
+        "purchase_title":"FREE SiriusXM Trial",
+        "genre":"Insurance",
+        "title":"Cousin Syl & Financial Advisor Harry Harris on life insurance do's & don'ts",
+        "description":"The Karen Hunter Show teaches the keys to entrepreneurial success in the industries of sports, politics, entertainment and so much more, directly from the celebrities and civilians who have personally created brands from the ground up.\n\nHear the Karen Hunter Show on SiriusXM Urban View on-demand, channel 126www.siriusxm.com/ondemand. Follow Karen Hunter at twitter.com/karenhunter\n",
+        "label_name":null,
+        "release":null,
+        "track_type":null,
+        "key_signature":null,
+        "isrc":null,
+        "video_url":null,
+        "bpm":null,
+        "release_year":null,
+        "release_month":null,
+        "release_day":null,
+        "original_format":"mp3",
+        "license":"all-rights-reserved",
+        "uri":"https://api.soundcloud.com/tracks/229269010",
+        "user":{  
+          "id":176638756,
+          "kind":"user",
+          "permalink":"user-967907311",
+          "username":"Karen Hunter Show",
+          "last_modified":"2015/10/20 18:30:20 +0000",
+          "uri":"https://api.soundcloud.com/users/176638756",
+          "permalink_url":"http://soundcloud.com/user-967907311",
+          "avatar_url":"https://i1.sndcdn.com/avatars-000178926063-noy22k-large.jpg"
+        },
+        "permalink_url":"http://soundcloud.com/user-967907311/cousin-syl-financial-advisor-harry-harris-on-life-insurance-dos-donts-1",
+        "artwork_url":"https://i1.sndcdn.com/artworks-000133352467-3ndvvy-large.jpg",
+        "waveform_url":"https://w1.sndcdn.com/gI8eAPsLbC6j_m.png",
+        "stream_url":"https://api.soundcloud.com/tracks/229269010/stream",
+        "playback_count":11,
+        "download_count":0,
+        "favoritings_count":1,
+        "comment_count":0,
+        "attachments_uri":"https://api.soundcloud.com/tracks/229269010/attachments",
+        "policy":"ALLOW",
+        "monetization_model":"NOT_APPLICABLE"
+      },
+      {  
+        "kind":"track",
+        "id":228240013,
+        "created_at":"2015/10/13 17:51:23 +0000",
+        "user_id":176638756,
+        "duration":262110,
+        "commentable":true,
+        "state":"finished",
+        "original_content_size":10480816,
+        "last_modified":"2015/10/13 18:00:07 +0000",
+        "sharing":"public",
+        "tag_list":"",
+        "permalink":"author-ari-berman-ronald-reagans-legacy-reaganites-agenda-supreme-court-hanging-in-the-balance",
+        "streamable":true,
+        "embeddable_by":"all",
+        "downloadable":false,
+        "purchase_url":"https://streaming.siriusxm.com/?%2Fflepz=true&campaign=SCNews&utm_campaign=SocialFreeTrial2013&utm_medium=SoundCloud&utm_source=SocialFTSCNews#_frmAccountLookup",
+        "label_id":null,
+        "purchase_title":null,
+        "genre":"Voting",
+        "title":"Author Ari Berman - Ronald Reagan's legacy, Reaganites agenda, Supreme Court hanging in the balance",
+        "description":"The Karen Hunter Show teaches the keys to entrepreneurial success in the industries of sports, politics, entertainment and so much more, directly from the celebrities and civilians who have personally created brands from the ground up. Hear the Karen Hunter Show on SiriusXM Urban View on-demand, channel 126 www.siriusxm.com/ondemand.",
+        "label_name":null,
+        "release":null,
+        "track_type":null,
+        "key_signature":null,
+        "isrc":null,
+        "video_url":null,
+        "bpm":null,
+        "release_year":null,
+        "release_month":null,
+        "release_day":null,
+        "original_format":"mp3",
+        "license":"all-rights-reserved",
+        "uri":"https://api.soundcloud.com/tracks/228240013",
+        "user":{  
+          "id":176638756,
+          "kind":"user",
+          "permalink":"user-967907311",
+          "username":"Karen Hunter Show",
+          "last_modified":"2015/10/20 18:30:20 +0000",
+          "uri":"https://api.soundcloud.com/users/176638756",
+          "permalink_url":"http://soundcloud.com/user-967907311",
+          "avatar_url":"https://i1.sndcdn.com/avatars-000178926063-noy22k-large.jpg"
+        },
+        "permalink_url":"http://soundcloud.com/user-967907311/author-ari-berman-ronald-reagans-legacy-reaganites-agenda-supreme-court-hanging-in-the-balance",
+        "artwork_url":"https://i1.sndcdn.com/artworks-000132605967-dba0a2-large.jpg",
+        "waveform_url":"https://w1.sndcdn.com/Nu3aD0jT7hq9_m.png",
+        "stream_url":"https://api.soundcloud.com/tracks/228240013/stream",
+        "playback_count":15,
+        "download_count":0,
+        "favoritings_count":0,
+        "comment_count":0,
+        "attachments_uri":"https://api.soundcloud.com/tracks/228240013/attachments",
+        "policy":"ALLOW",
+        "monetization_model":"NOT_APPLICABLE"
+      },
+      {  
+        "kind":"track",
+        "id":228239909,
+        "created_at":"2015/10/13 17:50:41 +0000",
+        "user_id":176638756,
+        "duration":486862,
+        "commentable":true,
+        "state":"finished",
+        "original_content_size":11672349,
+        "last_modified":"2015/10/13 17:59:56 +0000",
+        "sharing":"public",
+        "tag_list":"Actor",
+        "permalink":"actor-orlando-jones-changing-the-narrative-using-platforms-to-highlight-black-issues",
+        "streamable":true,
+        "embeddable_by":"all",
+        "downloadable":false,
+        "purchase_url":"https://streaming.siriusxm.com/?%2Fflepz=true&campaign=SCNews&utm_campaign=SocialFreeTrial2013&utm_medium=SoundCloud&utm_source=SocialFTSCNews#_frmAccountLookup",
+        "label_id":null,
+        "purchase_title":null,
+        "genre":"ALS",
+        "title":"Actor Orlando Jones - Changing the narrative, using platforms to highlight black issues",
+        "description":"The Karen Hunter Show teaches the keys to entrepreneurial success in the industries of sports, politics, entertainment and so much more, directly from the celebrities and civilians who have personally created brands from the ground up.\n\nHear the Karen Hunter Show on SiriusXM Urban View on-demand, channel 126www.siriusxm.com/ondemand. Follow Karen Hunter at twitter.com/karenhunter\n",
+        "label_name":null,
+        "release":null,
+        "track_type":null,
+        "key_signature":null,
+        "isrc":null,
+        "video_url":null,
+        "bpm":null,
+        "release_year":null,
+        "release_month":null,
+        "release_day":null,
+        "original_format":"mp3",
+        "license":"all-rights-reserved",
+        "uri":"https://api.soundcloud.com/tracks/228239909",
+        "user":{  
+          "id":176638756,
+          "kind":"user",
+          "permalink":"user-967907311",
+          "username":"Karen Hunter Show",
+          "last_modified":"2015/10/20 18:30:20 +0000",
+          "uri":"https://api.soundcloud.com/users/176638756",
+          "permalink_url":"http://soundcloud.com/user-967907311",
+          "avatar_url":"https://i1.sndcdn.com/avatars-000178926063-noy22k-large.jpg"
+        },
+        "permalink_url":"http://soundcloud.com/user-967907311/actor-orlando-jones-changing-the-narrative-using-platforms-to-highlight-black-issues",
+        "artwork_url":"https://i1.sndcdn.com/artworks-000132605879-h1tm6e-large.jpg",
+        "waveform_url":"https://w1.sndcdn.com/khEVajiCPkml_m.png",
+        "stream_url":"https://api.soundcloud.com/tracks/228239909/stream",
+        "playback_count":12,
+        "download_count":0,
+        "favoritings_count":0,
+        "comment_count":0,
+        "attachments_uri":"https://api.soundcloud.com/tracks/228239909/attachments",
+        "policy":"ALLOW",
+        "monetization_model":"NOT_APPLICABLE"
+      },
+      {  
+        "kind":"track",
+        "id":228239800,
+        "created_at":"2015/10/13 17:49:49 +0000",
+        "user_id":176638756,
+        "duration":334162,
+        "commentable":true,
+        "state":"finished",
+        "original_content_size":13360008,
+        "last_modified":"2015/10/13 17:59:42 +0000",
+        "sharing":"public",
+        "tag_list":"Garner died chokehold New York police officer grand jury decided indict Officer Daniel Pantaleo Staten",
+        "permalink":"historian-tim-wise-understanding-white-privilege-matrix-analogy",
+        "streamable":true,
+        "embeddable_by":"all",
+        "downloadable":false,
+        "purchase_url":"https://streaming.siriusxm.com/?%2Fflepz=true&campaign=SCNews&utm_campaign=SocialFreeTrial2013&utm_medium=SoundCloud&utm_source=SocialFTSCNews#_frmAccountLookup",
+        "label_id":null,
+        "purchase_title":null,
+        "genre":"Eric",
+        "title":"Historian Tim Wise - Understanding White Privilege, Matrix Analogy",
+        "description":"Author Tim Wise gives his reaction to Eric Garner protest nationwide following the grand jury.\n\nThe Karen Hunter Show teaches the keys to entrepreneurial success in the industries of sports, politics, entertainment and so much more, directly from the celebrities and civilians who have personally created brands from the ground up. Hear the Karen Hunter Show on SiriusXM Urban View on-demand, channel 126 www.siriusxm.com/ondemand.\n",
+        "label_name":null,
+        "release":null,
+        "track_type":null,
+        "key_signature":null,
+        "isrc":null,
+        "video_url":null,
+        "bpm":null,
+        "release_year":null,
+        "release_month":null,
+        "release_day":null,
+        "original_format":"mp3",
+        "license":"all-rights-reserved",
+        "uri":"https://api.soundcloud.com/tracks/228239800",
+        "user":{  
+          "id":176638756,
+          "kind":"user",
+          "permalink":"user-967907311",
+          "username":"Karen Hunter Show",
+          "last_modified":"2015/10/20 18:30:20 +0000",
+          "uri":"https://api.soundcloud.com/users/176638756",
+          "permalink_url":"http://soundcloud.com/user-967907311",
+          "avatar_url":"https://i1.sndcdn.com/avatars-000178926063-noy22k-large.jpg"
+        },
+        "permalink_url":"http://soundcloud.com/user-967907311/historian-tim-wise-understanding-white-privilege-matrix-analogy",
+        "artwork_url":"https://i1.sndcdn.com/artworks-000132605788-8rpjbl-large.jpg",
+        "waveform_url":"https://w1.sndcdn.com/iR6vwFW0bmsP_m.png",
+        "stream_url":"https://api.soundcloud.com/tracks/228239800/stream",
+        "playback_count":12,
+        "download_count":0,
+        "favoritings_count":1,
+        "comment_count":0,
+        "attachments_uri":"https://api.soundcloud.com/tracks/228239800/attachments",
+        "policy":"ALLOW",
+        "monetization_model":"NOT_APPLICABLE"
+      },
+      {  
+        "kind":"track",
+        "id":228239442,
+        "created_at":"2015/10/13 17:47:09 +0000",
+        "user_id":176638756,
+        "duration":278987,
+        "commentable":true,
+        "state":"finished",
+        "original_content_size":11154415,
+        "last_modified":"2015/10/13 17:59:21 +0000",
+        "sharing":"public",
+        "tag_list":"Business Music \"Hip Hop\"",
+        "permalink":"jasiri-x-on-being-an-independent-socially-conscious-hip-hop-artist-on-rise-tea-party-anthem",
+        "streamable":true,
+        "embeddable_by":"all",
+        "downloadable":false,
+        "purchase_url":"https://streaming.siriusxm.com/?%2Fflepz=true&campaign=SCNews&utm_campaign=SocialFreeTrial2013&utm_medium=SoundCloud&utm_source=SocialFTSCNews#_frmAccountLookup",
+        "label_id":null,
+        "purchase_title":null,
+        "genre":"Rap",
+        "title":"Jasiri X on being an independent socially conscious hip hop artist, On Rise Tea Party Anthem",
+        "description":"Rapper Jasiri X talks about his rise in the ranks of independent hip hop scene and how he uses his artistry to make a difference. \n\n\nThe Karen Hunter Show teaches the keys to entrepreneurial success in the industries of sports, politics, entertainment and so much more, directly from the celebrities and civilians who have personally created brands from the ground up. Hear the Karen Hunter Show on SiriusXM Urban View on-demand, channel 126 www.siriusxm.com/ondemand.\n\nFollow Karen Hunter at twitter.com/karenhunter\n",
+        "label_name":null,
+        "release":null,
+        "track_type":null,
+        "key_signature":null,
+        "isrc":null,
+        "video_url":null,
+        "bpm":null,
+        "release_year":null,
+        "release_month":null,
+        "release_day":null,
+        "original_format":"mp3",
+        "license":"all-rights-reserved",
+        "uri":"https://api.soundcloud.com/tracks/228239442",
+        "user":{  
+          "id":176638756,
+          "kind":"user",
+          "permalink":"user-967907311",
+          "username":"Karen Hunter Show",
+          "last_modified":"2015/10/20 18:30:20 +0000",
+          "uri":"https://api.soundcloud.com/users/176638756",
+          "permalink_url":"http://soundcloud.com/user-967907311",
+          "avatar_url":"https://i1.sndcdn.com/avatars-000178926063-noy22k-large.jpg"
+        },
+        "permalink_url":"http://soundcloud.com/user-967907311/jasiri-x-on-being-an-independent-socially-conscious-hip-hop-artist-on-rise-tea-party-anthem",
+        "artwork_url":"https://i1.sndcdn.com/artworks-000132605539-bh5rjq-large.jpg",
+        "waveform_url":"https://w1.sndcdn.com/hsjNw2wWOaFy_m.png",
+        "stream_url":"https://api.soundcloud.com/tracks/228239442/stream",
+        "playback_count":12,
+        "download_count":0,
+        "favoritings_count":3,
+        "comment_count":0,
+        "attachments_uri":"https://api.soundcloud.com/tracks/228239442/attachments",
+        "policy":"ALLOW",
+        "monetization_model":"NOT_APPLICABLE"
+      },
+      {  
+        "kind":"track",
+        "id":228239319,
+        "created_at":"2015/10/13 17:46:15 +0000",
+        "user_id":176638756,
+        "duration":262790,
+        "commentable":true,
+        "state":"finished",
+        "original_content_size":6303187,
+        "last_modified":"2015/10/13 17:59:06 +0000",
+        "sharing":"public",
+        "tag_list":"",
+        "permalink":"combat-jack-podcaster-its-all-about-black-excellence",
+        "streamable":true,
+        "embeddable_by":"all",
+        "downloadable":false,
+        "purchase_url":"https://streaming.siriusxm.com/?%2Fflepz=true&campaign=SCNews&utm_campaign=SocialFreeTrial2013&utm_medium=SoundCloud&utm_source=SocialFTSCNews#_frmAccountLookup",
+        "label_id":null,
+        "purchase_title":null,
+        "genre":"Blues",
+        "title":"Combat Jack, Podcaster - It's all about Black Excellence",
+        "description":"The Karen Hunter Show teaches the keys to entrepreneurial success in the industries of sports, politics, entertainment and so much more, directly from the celebrities and civilians who have personally created brands from the ground up.\n\nHear the Karen Hunter Show on SiriusXM Urban View on-demand, channel 126www.siriusxm.com/ondemand. Follow Karen Hunter at twitter.com/karenhunter\n",
+        "label_name":null,
+        "release":null,
+        "track_type":null,
+        "key_signature":null,
+        "isrc":null,
+        "video_url":null,
+        "bpm":null,
+        "release_year":null,
+        "release_month":null,
+        "release_day":null,
+        "original_format":"mp3",
+        "license":"all-rights-reserved",
+        "uri":"https://api.soundcloud.com/tracks/228239319",
+        "user":{  
+          "id":176638756,
+          "kind":"user",
+          "permalink":"user-967907311",
+          "username":"Karen Hunter Show",
+          "last_modified":"2015/10/20 18:30:20 +0000",
+          "uri":"https://api.soundcloud.com/users/176638756",
+          "permalink_url":"http://soundcloud.com/user-967907311",
+          "avatar_url":"https://i1.sndcdn.com/avatars-000178926063-noy22k-large.jpg"
+        },
+        "permalink_url":"http://soundcloud.com/user-967907311/combat-jack-podcaster-its-all-about-black-excellence",
+        "artwork_url":"https://i1.sndcdn.com/artworks-000132605455-9r5hd8-large.jpg",
+        "waveform_url":"https://w1.sndcdn.com/HXNk6lg1VeCk_m.png",
+        "stream_url":"https://api.soundcloud.com/tracks/228239319/stream",
+        "playback_count":11,
+        "download_count":0,
+        "favoritings_count":0,
+        "comment_count":0,
+        "attachments_uri":"https://api.soundcloud.com/tracks/228239319/attachments",
+        "policy":"ALLOW",
+        "monetization_model":"NOT_APPLICABLE"
+      },
+      {  
+        "kind":"track",
+        "id":228239199,
+        "created_at":"2015/10/13 17:45:28 +0000",
+        "user_id":176638756,
+        "duration":329199,
+        "commentable":true,
+        "state":"finished",
+        "original_content_size":5261448,
+        "last_modified":"2015/10/13 17:58:46 +0000",
+        "sharing":"public",
+        "tag_list":"Success Black Friday Boycott Activism America",
+        "permalink":"rahiel-tesfamariam-social-activist-notonedime-black-friday-protest-success",
+        "streamable":true,
+        "embeddable_by":"all",
+        "downloadable":false,
+        "purchase_url":"https://streaming.siriusxm.com/?%2Fflepz=true&campaign=SCNews&utm_campaign=SocialFreeTrial2013&utm_medium=SoundCloud&utm_source=SocialFTSCNews#_frmAccountLookup",
+        "label_id":null,
+        "purchase_title":null,
+        "genre":"NotOneDime",
+        "title":"Rahiel Tesfamariam, social activist - #NotOneDime Black Friday protest success",
+        "description":"Writer & social activist Rahiel Tesfamariam joins the show to discuss the effectiveness of Black Friday protests nationwide.\n\nThe Karen Hunter Show teaches the keys to entrepreneurial success in the industries of sports, politics, entertainment and so much more, directly from the celebrities and civilians who have personally created brands from the ground up. Hear the Karen Hunter Show on SiriusXM Urban View on-demand, channel 126 www.siriusxm.com/ondemand.\n",
+        "label_name":null,
+        "release":null,
+        "track_type":null,
+        "key_signature":null,
+        "isrc":null,
+        "video_url":null,
+        "bpm":null,
+        "release_year":null,
+        "release_month":null,
+        "release_day":null,
+        "original_format":"mp3",
+        "license":"all-rights-reserved",
+        "uri":"https://api.soundcloud.com/tracks/228239199",
+        "user":{  
+          "id":176638756,
+          "kind":"user",
+          "permalink":"user-967907311",
+          "username":"Karen Hunter Show",
+          "last_modified":"2015/10/20 18:30:20 +0000",
+          "uri":"https://api.soundcloud.com/users/176638756",
+          "permalink_url":"http://soundcloud.com/user-967907311",
+          "avatar_url":"https://i1.sndcdn.com/avatars-000178926063-noy22k-large.jpg"
+        },
+        "permalink_url":"http://soundcloud.com/user-967907311/rahiel-tesfamariam-social-activist-notonedime-black-friday-protest-success",
+        "artwork_url":"https://i1.sndcdn.com/artworks-000132605369-5n4v2x-large.jpg",
+        "waveform_url":"https://w1.sndcdn.com/urCsdNOKnesP_m.png",
+        "stream_url":"https://api.soundcloud.com/tracks/228239199/stream",
+        "playback_count":6,
+        "download_count":0,
+        "favoritings_count":0,
+        "comment_count":0,
+        "attachments_uri":"https://api.soundcloud.com/tracks/228239199/attachments",
+        "policy":"ALLOW",
+        "monetization_model":"NOT_APPLICABLE"
+      },
+      {  
+        "kind":"track",
+        "id":228238948,
+        "created_at":"2015/10/13 17:43:59 +0000",
+        "user_id":176638756,
+        "duration":369692,
+        "commentable":true,
+        "state":"finished",
+        "original_content_size":14780256,
+        "last_modified":"2015/10/13 17:58:28 +0000",
+        "sharing":"public",
+        "tag_list":"Race Society Acting",
+        "permalink":"actor-producer-bill-duke-on-understanding-the-colorism-rhetoric",
+        "streamable":true,
+        "embeddable_by":"all",
+        "downloadable":false,
+        "purchase_url":"https://streaming.siriusxm.com/?%2Fflepz=true&campaign=SCNews&utm_campaign=SocialFreeTrial2013&utm_medium=SoundCloud&utm_source=SocialFTSCNews#_frmAccountLookup",
+        "label_id":null,
+        "purchase_title":null,
+        "genre":"Colorism",
+        "title":"Actor & Producer Bill Duke on understanding the colorism rhetoric",
+        "description":"Light Skin vs. Dark Skin debate has layers to it. Actor Bill Duke breaks it down.\n\nThe Karen Hunter Show teaches the keys to entrepreneurial success in the industries of sports, politics, entertainment and so much more, directly from the celebrities and civilians who have personally created brands from the ground up.\n\nHear the Karen Hunter Show on SiriusXM Urban View on-demand, channel 126www.siriusxm.com/ondemand. Follow Karen Hunter at twitter.com/karenhunter\n",
+        "label_name":null,
+        "release":null,
+        "track_type":null,
+        "key_signature":null,
+        "isrc":null,
+        "video_url":null,
+        "bpm":null,
+        "release_year":null,
+        "release_month":null,
+        "release_day":null,
+        "original_format":"mp3",
+        "license":"all-rights-reserved",
+        "uri":"https://api.soundcloud.com/tracks/228238948",
+        "user":{  
+          "id":176638756,
+          "kind":"user",
+          "permalink":"user-967907311",
+          "username":"Karen Hunter Show",
+          "last_modified":"2015/10/20 18:30:20 +0000",
+          "uri":"https://api.soundcloud.com/users/176638756",
+          "permalink_url":"http://soundcloud.com/user-967907311",
+          "avatar_url":"https://i1.sndcdn.com/avatars-000178926063-noy22k-large.jpg"
+        },
+        "permalink_url":"http://soundcloud.com/user-967907311/actor-producer-bill-duke-on-understanding-the-colorism-rhetoric",
+        "artwork_url":"https://i1.sndcdn.com/artworks-000132605163-12zt99-large.jpg",
+        "waveform_url":"https://w1.sndcdn.com/GUfnjJmTxRDr_m.png",
+        "stream_url":"https://api.soundcloud.com/tracks/228238948/stream",
+        "playback_count":9,
+        "download_count":0,
+        "favoritings_count":0,
+        "comment_count":0,
+        "attachments_uri":"https://api.soundcloud.com/tracks/228238948/attachments",
+        "policy":"ALLOW",
+        "monetization_model":"NOT_APPLICABLE"
+      },
+      {  
+        "kind":"track",
+        "id":228238800,
+        "created_at":"2015/10/13 17:42:52 +0000",
+        "user_id":176638756,
+        "duration":389651,
+        "commentable":true,
+        "state":"finished",
+        "original_content_size":15578006,
+        "last_modified":"2015/10/13 17:58:14 +0000",
+        "sharing":"public",
+        "tag_list":"Revolution Race Religion",
+        "permalink":"david-banner-black-people-are-gods-people-history-is-being-deprived-from-us",
+        "streamable":true,
+        "embeddable_by":"all",
+        "downloadable":false,
+        "purchase_url":"https://streaming.siriusxm.com/?%2Fflepz=true&campaign=SCNews&utm_campaign=SocialFreeTrial2013&utm_medium=SoundCloud&utm_source=SocialFTSCNews#_frmAccountLookup",
+        "label_id":null,
+        "purchase_title":null,
+        "genre":"Ferguson",
+        "title":"David Banner - Black people are Gods people, history is being deprived from us",
+        "description":"David Banner breaks down the role religion plays in improving the black community. \n\nThe Karen Hunter Show teaches the keys to entrepreneurial success in the industries of sports, politics, entertainment and so much more, directly from the celebrities and civilians who have personally created brands from the ground up. Hear the Karen Hunter Show on SiriusXM Urban View on-demand, channel 126 www.siriusxm.com/ondemand.\n\nFollow Karen Hunter at twitter.com/karenhunter\n",
+        "label_name":null,
+        "release":null,
+        "track_type":null,
+        "key_signature":null,
+        "isrc":null,
+        "video_url":null,
+        "bpm":null,
+        "release_year":null,
+        "release_month":null,
+        "release_day":null,
+        "original_format":"mp3",
+        "license":"all-rights-reserved",
+        "uri":"https://api.soundcloud.com/tracks/228238800",
+        "user":{  
+          "id":176638756,
+          "kind":"user",
+          "permalink":"user-967907311",
+          "username":"Karen Hunter Show",
+          "last_modified":"2015/10/20 18:30:20 +0000",
+          "uri":"https://api.soundcloud.com/users/176638756",
+          "permalink_url":"http://soundcloud.com/user-967907311",
+          "avatar_url":"https://i1.sndcdn.com/avatars-000178926063-noy22k-large.jpg"
+        },
+        "permalink_url":"http://soundcloud.com/user-967907311/david-banner-black-people-are-gods-people-history-is-being-deprived-from-us",
+        "artwork_url":"https://i1.sndcdn.com/artworks-000132605056-qas6kj-large.jpg",
+        "waveform_url":"https://w1.sndcdn.com/udQyRibPAL9t_m.png",
+        "stream_url":"https://api.soundcloud.com/tracks/228238800/stream",
+        "playback_count":8,
+        "download_count":0,
+        "favoritings_count":0,
+        "comment_count":0,
+        "attachments_uri":"https://api.soundcloud.com/tracks/228238800/attachments",
+        "policy":"ALLOW",
+        "monetization_model":"NOT_APPLICABLE"
+      },
+      {  
+        "kind":"track",
+        "id":228238609,
+        "created_at":"2015/10/13 17:41:55 +0000",
+        "user_id":176638756,
+        "duration":374970,
+        "commentable":true,
+        "state":"finished",
+        "original_content_size":8991525,
+        "last_modified":"2015/10/13 17:57:56 +0000",
+        "sharing":"public",
+        "tag_list":"Activism Power Race Inequality \"Social Justice\"",
+        "permalink":"filmmaker-dream-hampton-breaks-down-black-political-capital-and-true-activism",
+        "streamable":true,
+        "embeddable_by":"all",
+        "downloadable":false,
+        "purchase_url":"https://streaming.siriusxm.com/?%2Fflepz=true&campaign=SCNews&utm_campaign=SocialFreeTrial2013&utm_medium=SoundCloud&utm_source=SocialFTSCNews#_frmAccountLookup",
+        "label_id":null,
+        "purchase_title":null,
+        "genre":"Activist",
+        "title":"Filmmaker Dream Hampton breaks down black political capital and true activism",
+        "description":"Writer, award winning filmmaker and social justice organizer Dream Hampton discusses how activism has changed through the decades. \n\nThe Karen Hunter Show teaches the keys to entrepreneurial success in the industries of sports, politics, entertainment and so much more, directly from the celebrities and civilians who have personally created brands from the ground up. Hear the Karen Hunter Show on SiriusXM Urban View on-demand, channel 126 www.siriusxm.com/ondemand.\n\nFollow Karen Hunter at twitter.com/karenhunter\n",
+        "label_name":null,
+        "release":null,
+        "track_type":null,
+        "key_signature":null,
+        "isrc":null,
+        "video_url":null,
+        "bpm":null,
+        "release_year":null,
+        "release_month":null,
+        "release_day":null,
+        "original_format":"mp3",
+        "license":"all-rights-reserved",
+        "uri":"https://api.soundcloud.com/tracks/228238609",
+        "user":{  
+          "id":176638756,
+          "kind":"user",
+          "permalink":"user-967907311",
+          "username":"Karen Hunter Show",
+          "last_modified":"2015/10/20 18:30:20 +0000",
+          "uri":"https://api.soundcloud.com/users/176638756",
+          "permalink_url":"http://soundcloud.com/user-967907311",
+          "avatar_url":"https://i1.sndcdn.com/avatars-000178926063-noy22k-large.jpg"
+        },
+        "permalink_url":"http://soundcloud.com/user-967907311/filmmaker-dream-hampton-breaks-down-black-political-capital-and-true-activism",
+        "artwork_url":"https://i1.sndcdn.com/artworks-000132604956-ziti67-large.jpg",
+        "waveform_url":"https://w1.sndcdn.com/HJwNjP8Ba2hh_m.png",
+        "stream_url":"https://api.soundcloud.com/tracks/228238609/stream",
+        "playback_count":5,
+        "download_count":0,
+        "favoritings_count":0,
+        "comment_count":0,
+        "attachments_uri":"https://api.soundcloud.com/tracks/228238609/attachments",
+        "policy":"ALLOW",
+        "monetization_model":"NOT_APPLICABLE"
+      },
+      {  
+        "kind":"track",
+        "id":228237976,
+        "created_at":"2015/10/13 17:38:33 +0000",
+        "user_id":176638756,
+        "duration":450680,
+        "commentable":true,
+        "state":"finished",
+        "original_content_size":7200498,
+        "last_modified":"2015/10/13 17:57:41 +0000",
+        "sharing":"public",
+        "tag_list":"Ferguson Lies Stereotypes Liberal Bias America",
+        "permalink":"identifying-universal-truths-race-social-constructs",
+        "streamable":true,
+        "embeddable_by":"all",
+        "downloadable":false,
+        "purchase_url":"https://streaming.siriusxm.com/?%2Fflepz=true&campaign=SCNews&utm_campaign=SocialFreeTrial2013&utm_medium=SoundCloud&utm_source=SocialFTSCNews#_frmAccountLookup",
+        "label_id":null,
+        "purchase_title":null,
+        "genre":"Race",
+        "title":"Identifying Universal Truths: Race & Social Constructs",
+        "description":"Karen Hunter clearly outlines the outright lies perpetuated in mainstream media and education in the wake of Ferguson.\n\nThe Karen Hunter Show teaches the keys to entrepreneurial success in the industries of sports, politics, entertainment and so much more, directly from the celebrities and civilians who have personally created brands from the ground up. Hear the Karen Hunter Show on SiriusXM Urban View on-demand, channel 126 www.siriusxm.com/ondemand.\n",
+        "label_name":null,
+        "release":null,
+        "track_type":null,
+        "key_signature":null,
+        "isrc":null,
+        "video_url":null,
+        "bpm":null,
+        "release_year":null,
+        "release_month":null,
+        "release_day":null,
+        "original_format":"mp3",
+        "license":"all-rights-reserved",
+        "uri":"https://api.soundcloud.com/tracks/228237976",
+        "user":{  
+          "id":176638756,
+          "kind":"user",
+          "permalink":"user-967907311",
+          "username":"Karen Hunter Show",
+          "last_modified":"2015/10/20 18:30:20 +0000",
+          "uri":"https://api.soundcloud.com/users/176638756",
+          "permalink_url":"http://soundcloud.com/user-967907311",
+          "avatar_url":"https://i1.sndcdn.com/avatars-000178926063-noy22k-large.jpg"
+        },
+        "permalink_url":"http://soundcloud.com/user-967907311/identifying-universal-truths-race-social-constructs",
+        "artwork_url":"https://i1.sndcdn.com/artworks-000132604623-i8j1q0-large.jpg",
+        "waveform_url":"https://w1.sndcdn.com/ax44E1U6RbHV_m.png",
+        "stream_url":"https://api.soundcloud.com/tracks/228237976/stream",
+        "playback_count":6,
+        "download_count":0,
+        "favoritings_count":0,
+        "comment_count":0,
+        "attachments_uri":"https://api.soundcloud.com/tracks/228237976/attachments",
+        "policy":"ALLOW",
+        "monetization_model":"NOT_APPLICABLE"
+      },
+      {  
+        "kind":"track",
+        "id":228237810,
+        "created_at":"2015/10/13 17:37:20 +0000",
+        "user_id":176638756,
+        "duration":576732,
+        "commentable":true,
+        "state":"finished",
+        "original_content_size":13825767,
+        "last_modified":"2015/10/13 17:57:24 +0000",
+        "sharing":"public",
+        "tag_list":"\"Black History\" \"Frederick Douglass\"",
+        "permalink":"historian-kenneth-c-davis-understanding-slavery-americas-independence-knowledge-is-power",
+        "streamable":true,
+        "embeddable_by":"all",
+        "downloadable":false,
+        "purchase_url":"https://streaming.siriusxm.com/?%2Fflepz=true&campaign=SCNews&utm_campaign=SocialFreeTrial2013&utm_medium=SoundCloud&utm_source=SocialFTSCNews#_frmAccountLookup",
+        "label_id":null,
+        "purchase_title":null,
+        "genre":"History",
+        "title":"Historian Kenneth C. Davis - Understanding slavery & America's independence, knowledge is power",
+        "description":"The Karen Hunter Show teaches the keys to entrepreneurial success in the industries of sports, politics, entertainment and so much more, directly from the celebrities and civilians who have personally created brands from the ground up.\n\nHear the Karen Hunter Show on SiriusXM Urban View on-demand, channel 126www.siriusxm.com/ondemand. Follow Karen Hunter at twitter.com/karenhunter\n",
+        "label_name":null,
+        "release":null,
+        "track_type":null,
+        "key_signature":null,
+        "isrc":null,
+        "video_url":null,
+        "bpm":null,
+        "release_year":null,
+        "release_month":null,
+        "release_day":null,
+        "original_format":"mp3",
+        "license":"all-rights-reserved",
+        "uri":"https://api.soundcloud.com/tracks/228237810",
+        "user":{  
+          "id":176638756,
+          "kind":"user",
+          "permalink":"user-967907311",
+          "username":"Karen Hunter Show",
+          "last_modified":"2015/10/20 18:30:20 +0000",
+          "uri":"https://api.soundcloud.com/users/176638756",
+          "permalink_url":"http://soundcloud.com/user-967907311",
+          "avatar_url":"https://i1.sndcdn.com/avatars-000178926063-noy22k-large.jpg"
+        },
+        "permalink_url":"http://soundcloud.com/user-967907311/historian-kenneth-c-davis-understanding-slavery-americas-independence-knowledge-is-power",
+        "artwork_url":"https://i1.sndcdn.com/artworks-000132604508-x6gzim-large.jpg",
+        "waveform_url":"https://w1.sndcdn.com/sCWAtzyQCIf6_m.png",
+        "stream_url":"https://api.soundcloud.com/tracks/228237810/stream",
+        "playback_count":8,
+        "download_count":0,
+        "favoritings_count":0,
+        "comment_count":0,
+        "attachments_uri":"https://api.soundcloud.com/tracks/228237810/attachments",
+        "policy":"ALLOW",
+        "monetization_model":"NOT_APPLICABLE"
+      },
+      {  
+        "kind":"track",
+        "id":228237668,
+        "created_at":"2015/10/13 17:36:13 +0000",
+        "user_id":176638756,
+        "duration":511263,
+        "commentable":true,
+        "state":"finished",
+        "original_content_size":90171694,
+        "last_modified":"2015/10/13 17:57:03 +0000",
+        "sharing":"public",
+        "tag_list":"Television Media \"Social Media\"",
+        "permalink":"black-ish-kenya-barris-on-rise-from-production-assistant-to-television-writer",
+        "streamable":true,
+        "embeddable_by":"all",
+        "downloadable":false,
+        "purchase_url":"https://streaming.siriusxm.com/?%2Fflepz=true&campaign=SCNews&utm_campaign=SocialFreeTrial2013&utm_medium=SoundCloud&utm_source=SocialFTSCNews#_frmAccountLookup",
+        "label_id":null,
+        "purchase_title":null,
+        "genre":"Black Television",
+        "title":"\"Black-Ish\" Kenya Barris on rise from production assistant to television writer",
+        "description":"\"Black-Ish\" Creator Kenya Barris shares how he made his power play into television. \n\nThe Karen Hunter Show teaches the keys to entrepreneurial success in the industries of sports, politics, entertainment and so much more, directly from the celebrities and civilians who have personally created brands from the ground up.\n\nHear the Karen Hunter Show on SiriusXM Urban View on-demand, channel 126 www.siriusxm.com/ondemand. Follow Karen Hunter at twitter.com/karenhunter\n",
+        "label_name":null,
+        "release":null,
+        "track_type":null,
+        "key_signature":null,
+        "isrc":null,
+        "video_url":null,
+        "bpm":null,
+        "release_year":null,
+        "release_month":null,
+        "release_day":null,
+        "original_format":"wav",
+        "license":"all-rights-reserved",
+        "uri":"https://api.soundcloud.com/tracks/228237668",
+        "user":{  
+          "id":176638756,
+          "kind":"user",
+          "permalink":"user-967907311",
+          "username":"Karen Hunter Show",
+          "last_modified":"2015/10/20 18:30:20 +0000",
+          "uri":"https://api.soundcloud.com/users/176638756",
+          "permalink_url":"http://soundcloud.com/user-967907311",
+          "avatar_url":"https://i1.sndcdn.com/avatars-000178926063-noy22k-large.jpg"
+        },
+        "permalink_url":"http://soundcloud.com/user-967907311/black-ish-kenya-barris-on-rise-from-production-assistant-to-television-writer",
+        "artwork_url":"https://i1.sndcdn.com/artworks-000132604415-h8va7c-large.jpg",
+        "waveform_url":"https://w1.sndcdn.com/ahssXXpDYm9A_m.png",
+        "stream_url":"https://api.soundcloud.com/tracks/228237668/stream",
+        "playback_count":7,
+        "download_count":0,
+        "favoritings_count":0,
+        "comment_count":0,
+        "attachments_uri":"https://api.soundcloud.com/tracks/228237668/attachments",
+        "policy":"ALLOW",
+        "monetization_model":"NOT_APPLICABLE"
+      },
+      {  
+        "kind":"track",
+        "id":228237453,
+        "created_at":"2015/10/13 17:34:50 +0000",
+        "user_id":176638756,
+        "duration":544129,
+        "commentable":true,
+        "state":"finished",
+        "original_content_size":13044578,
+        "last_modified":"2015/10/13 17:56:54 +0000",
+        "sharing":"public",
+        "tag_list":"",
+        "permalink":"marvet-britto-ceo-of-the-britto-agency-branding-the-impact-of-good-pr-brand-deaths",
+        "streamable":true,
+        "embeddable_by":"all",
+        "downloadable":false,
+        "purchase_url":"https://streaming.siriusxm.com/?%2Fflepz=true&campaign=SCNews&utm_campaign=SocialFreeTrial2013&utm_medium=SoundCloud&utm_source=SocialFTSCNews#_frmAccountLookup",
+        "label_id":null,
+        "purchase_title":null,
+        "genre":"Public Relations",
+        "title":"Marvet Britto, CEO of The Britto Agency - Branding, the impact of good PR & brand deaths",
+        "description":"The Karen Hunter Show teaches the keys to entrepreneurial success in the industries of sports, politics, entertainment and so much more, directly from the celebrities and civilians who have personally created brands from the ground up.\n\nHear the Karen Hunter Show on SiriusXM Urban View on-demand, channel 126www.siriusxm.com/ondemand. Follow Karen Hunter at twitter.com/karenhunter\n",
+        "label_name":null,
+        "release":null,
+        "track_type":null,
+        "key_signature":null,
+        "isrc":null,
+        "video_url":null,
+        "bpm":null,
+        "release_year":null,
+        "release_month":null,
+        "release_day":null,
+        "original_format":"mp3",
+        "license":"all-rights-reserved",
+        "uri":"https://api.soundcloud.com/tracks/228237453",
+        "user":{  
+          "id":176638756,
+          "kind":"user",
+          "permalink":"user-967907311",
+          "username":"Karen Hunter Show",
+          "last_modified":"2015/10/20 18:30:20 +0000",
+          "uri":"https://api.soundcloud.com/users/176638756",
+          "permalink_url":"http://soundcloud.com/user-967907311",
+          "avatar_url":"https://i1.sndcdn.com/avatars-000178926063-noy22k-large.jpg"
+        },
+        "permalink_url":"http://soundcloud.com/user-967907311/marvet-britto-ceo-of-the-britto-agency-branding-the-impact-of-good-pr-brand-deaths",
+        "artwork_url":"https://i1.sndcdn.com/artworks-000132604258-cprguf-large.jpg",
+        "waveform_url":"https://w1.sndcdn.com/r3QizBhBNIue_m.png",
+        "stream_url":"https://api.soundcloud.com/tracks/228237453/stream",
+        "playback_count":3,
+        "download_count":0,
+        "favoritings_count":0,
+        "comment_count":0,
+        "attachments_uri":"https://api.soundcloud.com/tracks/228237453/attachments",
+        "policy":"ALLOW",
+        "monetization_model":"NOT_APPLICABLE"
+      },
+      {  
+        "kind":"track",
+        "id":228237300,
+        "created_at":"2015/10/13 17:33:54 +0000",
+        "user_id":176638756,
+        "duration":257539,
+        "commentable":true,
+        "state":"finished",
+        "original_content_size":10297291,
+        "last_modified":"2015/10/13 17:56:34 +0000",
+        "sharing":"public",
+        "tag_list":"Games Strategy",
+        "permalink":"maurice-ashley-international-grandmaster-of-chess-author-life-strategies-from-chess",
+        "streamable":true,
+        "embeddable_by":"all",
+        "downloadable":false,
+        "purchase_url":"https://streaming.siriusxm.com/?%2Fflepz=true&campaign=SCNews&utm_campaign=SocialFreeTrial2013&utm_medium=SoundCloud&utm_source=SocialFTSCNews#_frmAccountLookup",
+        "label_id":null,
+        "purchase_title":null,
+        "genre":"Chess",
+        "title":"Maurice Ashley, International Grandmaster of Chess & Author - Life strategies from chess",
+        "description":"Offense & defense in life and on the chessboard w/ International Grandmaster of Chess & Author Maurice Ashley/ \n\nThe Karen Hunter Show teaches the keys to entrepreneurial success in the industries of sports, politics, entertainment and so much more, directly from the celebrities and civilians who have personally created brands from the ground up.\n\nHear the Karen Hunter Show on SiriusXM Urban View on-demand, channel 126www.siriusxm.com/ondemand. Follow Karen Hunter at twitter.com/karenhunter\n",
+        "label_name":null,
+        "release":null,
+        "track_type":null,
+        "key_signature":null,
+        "isrc":null,
+        "video_url":null,
+        "bpm":null,
+        "release_year":null,
+        "release_month":null,
+        "release_day":null,
+        "original_format":"mp3",
+        "license":"all-rights-reserved",
+        "uri":"https://api.soundcloud.com/tracks/228237300",
+        "user":{  
+          "id":176638756,
+          "kind":"user",
+          "permalink":"user-967907311",
+          "username":"Karen Hunter Show",
+          "last_modified":"2015/10/20 18:30:20 +0000",
+          "uri":"https://api.soundcloud.com/users/176638756",
+          "permalink_url":"http://soundcloud.com/user-967907311",
+          "avatar_url":"https://i1.sndcdn.com/avatars-000178926063-noy22k-large.jpg"
+        },
+        "permalink_url":"http://soundcloud.com/user-967907311/maurice-ashley-international-grandmaster-of-chess-author-life-strategies-from-chess",
+        "artwork_url":"https://i1.sndcdn.com/artworks-000132604163-p77mhs-large.jpg",
+        "waveform_url":"https://w1.sndcdn.com/4FASrjdFUcYI_m.png",
+        "stream_url":"https://api.soundcloud.com/tracks/228237300/stream",
+        "playback_count":2,
+        "download_count":0,
+        "favoritings_count":0,
+        "comment_count":0,
+        "attachments_uri":"https://api.soundcloud.com/tracks/228237300/attachments",
+        "policy":"ALLOW",
+        "monetization_model":"NOT_APPLICABLE"
+      },
+      {  
+        "kind":"track",
+        "id":228237147,
+        "created_at":"2015/10/13 17:32:54 +0000",
+        "user_id":176638756,
+        "duration":310598,
+        "commentable":true,
+        "state":"finished",
+        "original_content_size":12420462,
+        "last_modified":"2015/10/13 17:56:25 +0000",
+        "sharing":"public",
+        "tag_list":"Empowerment",
+        "permalink":"monique-on-being-in-total-control-of-her-brand-real-ownership",
+        "streamable":true,
+        "embeddable_by":"all",
+        "downloadable":false,
+        "purchase_url":"https://streaming.siriusxm.com/?%2Fflepz=true&campaign=SCNews&utm_campaign=SocialFreeTrial2013&utm_medium=SoundCloud&utm_source=SocialFTSCNews#_frmAccountLookup",
+        "label_id":null,
+        "purchase_title":null,
+        "genre":"Ownership",
+        "title":"MoNique on being in total control of her brand & real ownership",
+        "description":"With all the talk of being blackballed in the industry, MoNique clears the air. \n\nThe Karen Hunter Show teaches the keys to entrepreneurial success in the industries of sports, politics, entertainment and so much more, directly from the celebrities and civilians who have personally created brands from the ground up.\n\nHear the Karen Hunter Show on SiriusXM Urban View on-demand, channel 126www.siriusxm.com/ondemand. Follow Karen Hunter at twitter.com/karenhunter\n",
+        "label_name":null,
+        "release":null,
+        "track_type":null,
+        "key_signature":null,
+        "isrc":null,
+        "video_url":null,
+        "bpm":null,
+        "release_year":null,
+        "release_month":null,
+        "release_day":null,
+        "original_format":"mp3",
+        "license":"all-rights-reserved",
+        "uri":"https://api.soundcloud.com/tracks/228237147",
+        "user":{  
+          "id":176638756,
+          "kind":"user",
+          "permalink":"user-967907311",
+          "username":"Karen Hunter Show",
+          "last_modified":"2015/10/20 18:30:20 +0000",
+          "uri":"https://api.soundcloud.com/users/176638756",
+          "permalink_url":"http://soundcloud.com/user-967907311",
+          "avatar_url":"https://i1.sndcdn.com/avatars-000178926063-noy22k-large.jpg"
+        },
+        "permalink_url":"http://soundcloud.com/user-967907311/monique-on-being-in-total-control-of-her-brand-real-ownership",
+        "artwork_url":"https://i1.sndcdn.com/artworks-000132604043-mfwq1a-large.jpg",
+        "waveform_url":"https://w1.sndcdn.com/59kBRKQBFvwn_m.png",
+        "stream_url":"https://api.soundcloud.com/tracks/228237147/stream",
+        "playback_count":3,
+        "download_count":0,
+        "favoritings_count":0,
+        "comment_count":0,
+        "attachments_uri":"https://api.soundcloud.com/tracks/228237147/attachments",
+        "policy":"ALLOW",
+        "monetization_model":"NOT_APPLICABLE"
+      },
+      {  
+        "kind":"track",
+        "id":228236976,
+        "created_at":"2015/10/13 17:31:51 +0000",
+        "user_id":176638756,
+        "duration":123100,
+        "commentable":true,
+        "state":"finished",
+        "original_content_size":4925233,
+        "last_modified":"2015/10/13 17:55:45 +0000",
+        "sharing":"public",
+        "tag_list":"Race Ferguson Society",
+        "permalink":"dr-mary-frances-berry-solutions-a-call-to-action-for-all-activist",
+        "streamable":true,
+        "embeddable_by":"all",
+        "downloadable":false,
+        "purchase_url":"https://streaming.siriusxm.com/?%2Fflepz=true&campaign=SCNews&utm_campaign=SocialFreeTrial2013&utm_medium=SoundCloud&utm_source=SocialFTSCNews#_frmAccountLookup",
+        "label_id":null,
+        "purchase_title":null,
+        "genre":"Activism",
+        "title":"Dr. Mary Frances Berry: Solutions & a call to action for all activist",
+        "description":"Civil Rights Veteran Dr. Mary Frances Berry lays out how activist can come together and make tangible change post Ferguson. \n\nThe Karen Hunter Show teaches the keys to entrepreneurial success in the industries of sports, politics, entertainment and so much more, directly from the celebrities and civilians who have personally created brands from the ground up.\n\nHear the Karen Hunter Show on SiriusXM Urban View on-demand, channel 126www.siriusxm.com/ondemand. Follow Karen Hunter at twitter.com/karenhunter\n",
+        "label_name":null,
+        "release":null,
+        "track_type":null,
+        "key_signature":null,
+        "isrc":null,
+        "video_url":null,
+        "bpm":null,
+        "release_year":null,
+        "release_month":null,
+        "release_day":null,
+        "original_format":"mp3",
+        "license":"all-rights-reserved",
+        "uri":"https://api.soundcloud.com/tracks/228236976",
+        "user":{  
+          "id":176638756,
+          "kind":"user",
+          "permalink":"user-967907311",
+          "username":"Karen Hunter Show",
+          "last_modified":"2015/10/20 18:30:20 +0000",
+          "uri":"https://api.soundcloud.com/users/176638756",
+          "permalink_url":"http://soundcloud.com/user-967907311",
+          "avatar_url":"https://i1.sndcdn.com/avatars-000178926063-noy22k-large.jpg"
+        },
+        "permalink_url":"http://soundcloud.com/user-967907311/dr-mary-frances-berry-solutions-a-call-to-action-for-all-activist",
+        "artwork_url":"https://i1.sndcdn.com/artworks-000132603924-i2bl9x-large.jpg",
+        "waveform_url":"https://w1.sndcdn.com/X3C1TSUIttQ8_m.png",
+        "stream_url":"https://api.soundcloud.com/tracks/228236976/stream",
+        "playback_count":4,
+        "download_count":0,
+        "favoritings_count":0,
+        "comment_count":0,
+        "attachments_uri":"https://api.soundcloud.com/tracks/228236976/attachments",
+        "policy":"ALLOW",
+        "monetization_model":"NOT_APPLICABLE"
+      },
+      {  
+        "kind":"track",
+        "id":228236785,
+        "created_at":"2015/10/13 17:30:32 +0000",
+        "user_id":176638756,
+        "duration":210096,
+        "commentable":true,
+        "state":"finished",
+        "original_content_size":5040249,
+        "last_modified":"2015/10/13 17:55:29 +0000",
+        "sharing":"public",
+        "tag_list":"Local \"New York\" SiriusXM",
+        "permalink":"brittany-clingen-ballotpediaorg-the-importance-of-staying-informed-about-local-elections",
+        "streamable":true,
+        "embeddable_by":"all",
+        "downloadable":false,
+        "purchase_url":"https://streaming.siriusxm.com/?%2Fflepz=true&campaign=SCNews&utm_campaign=SocialFreeTrial2013&utm_medium=SoundCloud&utm_source=SocialFTSCNews#_frmAccountLookup",
+        "label_id":null,
+        "purchase_title":null,
+        "genre":"Elections",
+        "title":"Brittany Clingen, Ballotpedia.Org - The importance of staying informed about local elections",
+        "description":"The Karen Hunter Show teaches the keys to entrepreneurial success in the industries of sports, politics, entertainment and so much more, directly from the celebrities and civilians who have personally created brands from the ground up.\nHear the Karen Hunter Show on SiriusXM Urban View on-demand, channel 126www.siriusxm.com/ondemand. Follow Karen Hunter at twitter.com/karenhunter\n",
+        "label_name":null,
+        "release":null,
+        "track_type":null,
+        "key_signature":null,
+        "isrc":null,
+        "video_url":null,
+        "bpm":null,
+        "release_year":null,
+        "release_month":null,
+        "release_day":null,
+        "original_format":"mp3",
+        "license":"all-rights-reserved",
+        "uri":"https://api.soundcloud.com/tracks/228236785",
+        "user":{  
+          "id":176638756,
+          "kind":"user",
+          "permalink":"user-967907311",
+          "username":"Karen Hunter Show",
+          "last_modified":"2015/10/20 18:30:20 +0000",
+          "uri":"https://api.soundcloud.com/users/176638756",
+          "permalink_url":"http://soundcloud.com/user-967907311",
+          "avatar_url":"https://i1.sndcdn.com/avatars-000178926063-noy22k-large.jpg"
+        },
+        "permalink_url":"http://soundcloud.com/user-967907311/brittany-clingen-ballotpediaorg-the-importance-of-staying-informed-about-local-elections",
+        "artwork_url":"https://i1.sndcdn.com/artworks-000132603792-663121-large.jpg",
+        "waveform_url":"https://w1.sndcdn.com/4wU3rrcOjyNW_m.png",
+        "stream_url":"https://api.soundcloud.com/tracks/228236785/stream",
+        "playback_count":2,
+        "download_count":0,
+        "favoritings_count":0,
+        "comment_count":0,
+        "attachments_uri":"https://api.soundcloud.com/tracks/228236785/attachments",
+        "policy":"ALLOW",
+        "monetization_model":"NOT_APPLICABLE"
+      },
+      {  
+        "kind":"track",
+        "id":228236590,
+        "created_at":"2015/10/13 17:29:30 +0000",
+        "user_id":176638756,
+        "duration":375361,
+        "commentable":true,
+        "state":"finished",
+        "original_content_size":15006267,
+        "last_modified":"2015/10/13 17:55:16 +0000",
+        "sharing":"public",
+        "tag_list":"\"Move On\"",
+        "permalink":"anna-galland-executive-director-of-moveonorg-getting-active-to-improve-our-nation",
+        "streamable":true,
+        "embeddable_by":"all",
+        "downloadable":false,
+        "purchase_url":"https://streaming.siriusxm.com/?%2Fflepz=true&campaign=SCNews&utm_campaign=SocialFreeTrial2013&utm_medium=SoundCloud&utm_source=SocialFTSCNews#_frmAccountLookup",
+        "label_id":null,
+        "purchase_title":null,
+        "genre":"Petition",
+        "title":"Anna Galland Executive Director of MoveOn.org - Getting active to improve our nation",
+        "description":"The Karen Hunter Show teaches the keys to entrepreneurial success in the industries of sports, politics, entertainment and so much more, directly from the celebrities and civilians who have personally created brands from the ground up.\n\nHear the Karen Hunter Show on SiriusXM Urban View on-demand, channel 126www.siriusxm.com/ondemand. Follow Karen Hunter at twitter.com/karenhunter\n",
+        "label_name":null,
+        "release":null,
+        "track_type":null,
+        "key_signature":null,
+        "isrc":null,
+        "video_url":null,
+        "bpm":null,
+        "release_year":null,
+        "release_month":null,
+        "release_day":null,
+        "original_format":"mp3",
+        "license":"all-rights-reserved",
+        "uri":"https://api.soundcloud.com/tracks/228236590",
+        "user":{  
+          "id":176638756,
+          "kind":"user",
+          "permalink":"user-967907311",
+          "username":"Karen Hunter Show",
+          "last_modified":"2015/10/20 18:30:20 +0000",
+          "uri":"https://api.soundcloud.com/users/176638756",
+          "permalink_url":"http://soundcloud.com/user-967907311",
+          "avatar_url":"https://i1.sndcdn.com/avatars-000178926063-noy22k-large.jpg"
+        },
+        "permalink_url":"http://soundcloud.com/user-967907311/anna-galland-executive-director-of-moveonorg-getting-active-to-improve-our-nation",
+        "artwork_url":"https://i1.sndcdn.com/artworks-000132603654-pm6bdy-large.jpg",
+        "waveform_url":"https://w1.sndcdn.com/gOyCT5IY9iU7_m.png",
+        "stream_url":"https://api.soundcloud.com/tracks/228236590/stream",
+        "playback_count":3,
+        "download_count":0,
+        "favoritings_count":0,
+        "comment_count":0,
+        "attachments_uri":"https://api.soundcloud.com/tracks/228236590/attachments",
+        "policy":"ALLOW",
+        "monetization_model":"NOT_APPLICABLE"
+      },
+      {  
+        "kind":"track",
+        "id":228236458,
+        "created_at":"2015/10/13 17:28:32 +0000",
+        "user_id":176638756,
+        "duration":322772,
+        "commentable":true,
+        "state":"finished",
+        "original_content_size":12904792,
+        "last_modified":"2015/10/13 17:55:00 +0000",
+        "sharing":"public",
+        "tag_list":"\"Black History\" Slavery Business Europeans",
+        "permalink":"historian-professor-edward-baptist-details-how-the-business-of-slavery-was-built",
+        "streamable":true,
+        "embeddable_by":"all",
+        "downloadable":false,
+        "purchase_url":"https://streaming.siriusxm.com/?%2Fflepz=true&campaign=SCNews&utm_campaign=SocialFreeTrial2013&utm_medium=SoundCloud&utm_source=SocialFTSCNews#_frmAccountLookup",
+        "label_id":null,
+        "purchase_title":null,
+        "genre":"History",
+        "title":"Historian & Professor Edward Baptist details how the business of slavery was built",
+        "description":"Professor Edward Baptist discusses his book \"The Half Has Never Been Told: Slavery and the Making of American Capitalism\" and how the infrastructure of slavery was formed. \n\nThe Karen Hunter Show teaches the keys to entrepreneurial success in the industries of sports, politics, entertainment and so much more, directly from the celebrities and civilians who have personally created brands from the ground up.\n\nHear the Karen Hunter Show on SiriusXM Urban View on-demand, channel 126 www.siriusxm.com/ondemand. Follow Karen Hunter at twitter.com/karenhunter\n",
+        "label_name":null,
+        "release":null,
+        "track_type":null,
+        "key_signature":null,
+        "isrc":null,
+        "video_url":null,
+        "bpm":null,
+        "release_year":null,
+        "release_month":null,
+        "release_day":null,
+        "original_format":"mp3",
+        "license":"all-rights-reserved",
+        "uri":"https://api.soundcloud.com/tracks/228236458",
+        "user":{  
+          "id":176638756,
+          "kind":"user",
+          "permalink":"user-967907311",
+          "username":"Karen Hunter Show",
+          "last_modified":"2015/10/20 18:30:20 +0000",
+          "uri":"https://api.soundcloud.com/users/176638756",
+          "permalink_url":"http://soundcloud.com/user-967907311",
+          "avatar_url":"https://i1.sndcdn.com/avatars-000178926063-noy22k-large.jpg"
+        },
+        "permalink_url":"http://soundcloud.com/user-967907311/historian-professor-edward-baptist-details-how-the-business-of-slavery-was-built",
+        "artwork_url":"https://i1.sndcdn.com/artworks-000132603581-0nm0hj-large.jpg",
+        "waveform_url":"https://w1.sndcdn.com/fili4D5NNALh_m.png",
+        "stream_url":"https://api.soundcloud.com/tracks/228236458/stream",
+        "playback_count":2,
+        "download_count":0,
+        "favoritings_count":0,
+        "comment_count":0,
+        "attachments_uri":"https://api.soundcloud.com/tracks/228236458/attachments",
+        "policy":"ALLOW",
+        "monetization_model":"NOT_APPLICABLE"
+      },
+      {  
+        "kind":"track",
+        "id":228236201,
+        "created_at":"2015/10/13 17:27:10 +0000",
+        "user_id":176638756,
+        "duration":484669,
+        "commentable":true,
+        "state":"finished",
+        "original_content_size":11619854,
+        "last_modified":"2015/10/13 17:54:41 +0000",
+        "sharing":"public",
+        "tag_list":"Police Brutality Racism",
+        "permalink":"civil-rights-attorney-laura-coates-sandrabland-surviving-police-encounters-knowing-your-rights",
+        "streamable":true,
+        "embeddable_by":"all",
+        "downloadable":false,
+        "purchase_url":"https://streaming.siriusxm.com/?%2Fflepz=true&campaign=SCNews&utm_campaign=SocialFreeTrial2013&utm_medium=SoundCloud&utm_source=SocialFTSCNews#_frmAccountLookup",
+        "label_id":null,
+        "purchase_title":null,
+        "genre":"Sandra Bland",
+        "title":"Civil Rights Attorney Laura Coates - #SandraBland, surviving police encounters, knowing your rights",
+        "description":"The Karen Hunter Show teaches the keys to entrepreneurial success in the industries of sports, politics, entertainment and so much more, directly from the celebrities and civilians who have personally created brands from the ground up.\n\nHear the Karen Hunter Show on SiriusXM Urban View on-demand, channel 126www.siriusxm.com/ondemand. Follow Karen Hunter at twitter.com/karenhunter\n",
+        "label_name":null,
+        "release":null,
+        "track_type":null,
+        "key_signature":null,
+        "isrc":null,
+        "video_url":null,
+        "bpm":null,
+        "release_year":null,
+        "release_month":null,
+        "release_day":null,
+        "original_format":"mp3",
+        "license":"all-rights-reserved",
+        "uri":"https://api.soundcloud.com/tracks/228236201",
+        "user":{  
+          "id":176638756,
+          "kind":"user",
+          "permalink":"user-967907311",
+          "username":"Karen Hunter Show",
+          "last_modified":"2015/10/20 18:30:20 +0000",
+          "uri":"https://api.soundcloud.com/users/176638756",
+          "permalink_url":"http://soundcloud.com/user-967907311",
+          "avatar_url":"https://i1.sndcdn.com/avatars-000178926063-noy22k-large.jpg"
+        },
+        "permalink_url":"http://soundcloud.com/user-967907311/civil-rights-attorney-laura-coates-sandrabland-surviving-police-encounters-knowing-your-rights",
+        "artwork_url":"https://i1.sndcdn.com/artworks-000132603437-bs61o5-large.jpg",
+        "waveform_url":"https://w1.sndcdn.com/zhc2VyYh1MiY_m.png",
+        "stream_url":"https://api.soundcloud.com/tracks/228236201/stream",
+        "playback_count":6,
+        "download_count":0,
+        "favoritings_count":1,
+        "comment_count":0,
+        "attachments_uri":"https://api.soundcloud.com/tracks/228236201/attachments",
+        "policy":"ALLOW",
+        "monetization_model":"NOT_APPLICABLE"
+      },
+      {  
+        "kind":"track",
+        "id":228235540,
+        "created_at":"2015/10/13 17:22:58 +0000",
+        "user_id":176638756,
+        "duration":436285,
+        "commentable":true,
+        "state":"finished",
+        "original_content_size":17440599,
+        "last_modified":"2015/10/13 17:54:20 +0000",
+        "sharing":"public",
+        "tag_list":"Budgets Budgeting Apps Wealth",
+        "permalink":"author-and-wealth-expert-ryan-c-mack-community-building-economics",
+        "streamable":true,
+        "embeddable_by":"all",
+        "downloadable":false,
+        "purchase_url":"https://streaming.siriusxm.com/?%2Fflepz=true&campaign=SCNews&utm_campaign=SocialFreeTrial2013&utm_medium=SoundCloud&utm_source=SocialFTSCNews#_frmAccountLookup",
+        "label_id":null,
+        "purchase_title":null,
+        "genre":"Finance",
+        "title":"Author and Wealth Expert Ryan C. Mack - Community building & economics",
+        "description":"The Karen Hunter Show teaches the keys to entrepreneurial success in the industries of sports, politics, entertainment and so much more, directly from the celebrities and civilians who have personally created brands from the ground up. Hear the Karen Hunter Show on SiriusXM Urban View on-demand, channel 126 www.siriusxm.com/ondemand.\n\nFollow Karen Hunter at twitter.com/karenhunter\n",
+        "label_name":null,
+        "release":null,
+        "track_type":null,
+        "key_signature":null,
+        "isrc":null,
+        "video_url":null,
+        "bpm":null,
+        "release_year":null,
+        "release_month":null,
+        "release_day":null,
+        "original_format":"mp3",
+        "license":"all-rights-reserved",
+        "uri":"https://api.soundcloud.com/tracks/228235540",
+        "user":{  
+          "id":176638756,
+          "kind":"user",
+          "permalink":"user-967907311",
+          "username":"Karen Hunter Show",
+          "last_modified":"2015/10/20 18:30:20 +0000",
+          "uri":"https://api.soundcloud.com/users/176638756",
+          "permalink_url":"http://soundcloud.com/user-967907311",
+          "avatar_url":"https://i1.sndcdn.com/avatars-000178926063-noy22k-large.jpg"
+        },
+        "permalink_url":"http://soundcloud.com/user-967907311/author-and-wealth-expert-ryan-c-mack-community-building-economics",
+        "artwork_url":"https://i1.sndcdn.com/artworks-000132602927-7eyiw8-large.jpg",
+        "waveform_url":"https://w1.sndcdn.com/dEPZuOXccUTk_m.png",
+        "stream_url":"https://api.soundcloud.com/tracks/228235540/stream",
+        "playback_count":5,
+        "download_count":0,
+        "favoritings_count":0,
+        "comment_count":0,
+        "attachments_uri":"https://api.soundcloud.com/tracks/228235540/attachments",
+        "policy":"ALLOW",
+        "monetization_model":"NOT_APPLICABLE"
+      },
+      {  
+        "kind":"track",
+        "id":228235378,
+        "created_at":"2015/10/13 17:21:44 +0000",
+        "user_id":176638756,
+        "duration":330767,
+        "commentable":true,
+        "state":"finished",
+        "original_content_size":7931743,
+        "last_modified":"2015/10/13 17:54:03 +0000",
+        "sharing":"public",
+        "tag_list":"Wealth",
+        "permalink":"ryan-c-mack-wealth-expert-everything-you-need-to-know-about-net-worth",
+        "streamable":true,
+        "embeddable_by":"all",
+        "downloadable":false,
+        "purchase_url":"https://streaming.siriusxm.com/?%2Fflepz=true&campaign=SCNews&utm_campaign=SocialFreeTrial2013&utm_medium=SoundCloud&utm_source=SocialFTSCNews#_frmAccountLookup",
+        "label_id":null,
+        "purchase_title":null,
+        "genre":"Finance",
+        "title":"Ryan C. Mack, Wealth Expert - Everything you need to know about Net Worth",
+        "description":"Expert Wealth Manager Ryan C. Mack.\n\nThe Karen Hunter Show teaches the keys to entrepreneurial success in the industries of sports, politics, entertainment and so much more, directly from the celebrities and civilians who have personally created brands from the ground up.\n\nHear the Karen Hunter Show on SiriusXM Urban View on-demand, channel 126www.siriusxm.com/ondemand. Follow Karen Hunter at twitter.com/karenhunter\n",
+        "label_name":null,
+        "release":null,
+        "track_type":null,
+        "key_signature":null,
+        "isrc":null,
+        "video_url":null,
+        "bpm":null,
+        "release_year":null,
+        "release_month":null,
+        "release_day":null,
+        "original_format":"mp3",
+        "license":"all-rights-reserved",
+        "uri":"https://api.soundcloud.com/tracks/228235378",
+        "user":{  
+          "id":176638756,
+          "kind":"user",
+          "permalink":"user-967907311",
+          "username":"Karen Hunter Show",
+          "last_modified":"2015/10/20 18:30:20 +0000",
+          "uri":"https://api.soundcloud.com/users/176638756",
+          "permalink_url":"http://soundcloud.com/user-967907311",
+          "avatar_url":"https://i1.sndcdn.com/avatars-000178926063-noy22k-large.jpg"
+        },
+        "permalink_url":"http://soundcloud.com/user-967907311/ryan-c-mack-wealth-expert-everything-you-need-to-know-about-net-worth",
+        "artwork_url":"https://i1.sndcdn.com/artworks-000132602825-0aiex0-large.jpg",
+        "waveform_url":"https://w1.sndcdn.com/P1kYZjwkzOUg_m.png",
+        "stream_url":"https://api.soundcloud.com/tracks/228235378/stream",
+        "playback_count":5,
+        "download_count":0,
+        "favoritings_count":2,
+        "comment_count":0,
+        "attachments_uri":"https://api.soundcloud.com/tracks/228235378/attachments",
+        "policy":"ALLOW",
+        "monetization_model":"NOT_APPLICABLE"
+      },
+      {  
+        "kind":"track",
+        "id":228235176,
+        "created_at":"2015/10/13 17:20:22 +0000",
+        "user_id":176638756,
+        "duration":423615,
+        "commentable":true,
+        "state":"finished",
+        "original_content_size":16934244,
+        "last_modified":"2015/10/13 17:53:49 +0000",
+        "sharing":"public",
+        "tag_list":"Money Wealth Finance",
+        "permalink":"ryan-c-mack-author-budgeting-and-the-negative-effects-of-e-commerce-fake-money",
+        "streamable":true,
+        "embeddable_by":"all",
+        "downloadable":false,
+        "purchase_url":"https://streaming.siriusxm.com/?%2Fflepz=true&campaign=SCNews&utm_campaign=SocialFreeTrial2013&utm_medium=SoundCloud&utm_source=SocialFTSCNews#_frmAccountLookup",
+        "label_id":null,
+        "purchase_title":null,
+        "genre":"Digital",
+        "title":"Ryan C. Mack, Author - Budgeting and the negative effects of e-commerce, \"fake money\"",
+        "description":"Online buying power and the behavioral effects. Does it feel like fake money?\n\nThe Karen Hunter Show teaches the keys to entrepreneurial success in the industries of sports, politics, entertainment and so much more, directly from the celebrities and civilians who have personally created brands from the ground up. \n\nHear the Karen Hunter Show on SiriusXM Urban View on-demand, channel 126www.siriusxm.com/ondemand. Follow Karen Hunter at twitter.com/karenhunter\n",
+        "label_name":null,
+        "release":null,
+        "track_type":null,
+        "key_signature":null,
+        "isrc":null,
+        "video_url":null,
+        "bpm":null,
+        "release_year":null,
+        "release_month":null,
+        "release_day":null,
+        "original_format":"mp3",
+        "license":"all-rights-reserved",
+        "uri":"https://api.soundcloud.com/tracks/228235176",
+        "user":{  
+          "id":176638756,
+          "kind":"user",
+          "permalink":"user-967907311",
+          "username":"Karen Hunter Show",
+          "last_modified":"2015/10/20 18:30:20 +0000",
+          "uri":"https://api.soundcloud.com/users/176638756",
+          "permalink_url":"http://soundcloud.com/user-967907311",
+          "avatar_url":"https://i1.sndcdn.com/avatars-000178926063-noy22k-large.jpg"
+        },
+        "permalink_url":"http://soundcloud.com/user-967907311/ryan-c-mack-author-budgeting-and-the-negative-effects-of-e-commerce-fake-money",
+        "artwork_url":"https://i1.sndcdn.com/artworks-000132602697-mrbp89-large.jpg",
+        "waveform_url":"https://w1.sndcdn.com/0rGueKj9OCiZ_m.png",
+        "stream_url":"https://api.soundcloud.com/tracks/228235176/stream",
+        "playback_count":3,
+        "download_count":0,
+        "favoritings_count":0,
+        "comment_count":0,
+        "attachments_uri":"https://api.soundcloud.com/tracks/228235176/attachments",
+        "policy":"ALLOW",
+        "monetization_model":"NOT_APPLICABLE"
+      },
+      {  
+        "kind":"track",
+        "id":228235014,
+        "created_at":"2015/10/13 17:19:07 +0000",
+        "user_id":176638756,
+        "duration":332595,
+        "commentable":true,
+        "state":"finished",
+        "original_content_size":13297295,
+        "last_modified":"2015/10/13 17:53:40 +0000",
+        "sharing":"public",
+        "tag_list":"Money Power Respect Finance",
+        "permalink":"wealth-manager-ryan-c-mack-excessive-shopping-is-a-problem-for-both-men-women",
+        "streamable":true,
+        "embeddable_by":"all",
+        "downloadable":false,
+        "purchase_url":"https://streaming.siriusxm.com/?%2Fflepz=true&campaign=SCNews&utm_campaign=SocialFreeTrial2013&utm_medium=SoundCloud&utm_source=SocialFTSCNews#_frmAccountLookup",
+        "label_id":null,
+        "purchase_title":null,
+        "genre":"Shopping",
+        "title":"Wealth Manager Ryan C. Mack \"excessive shopping is a problem for both men & women\"",
+        "description":"Spending habits analysis and budgeting tips with Ryan C. Mack, Author and expert wealth manager. \n\nThe Karen Hunter Show teaches the keys to entrepreneurial success in the industries of sports, politics, entertainment and so much more, directly from the celebrities and civilians who have personally created brands from the ground up.\n\nHear the Karen Hunter Show on SiriusXM Urban View on-demand, channel 126www.siriusxm.com/ondemand. Follow Karen Hunter at twitter.com/karenhunter\n",
+        "label_name":null,
+        "release":null,
+        "track_type":null,
+        "key_signature":null,
+        "isrc":null,
+        "video_url":null,
+        "bpm":null,
+        "release_year":null,
+        "release_month":null,
+        "release_day":null,
+        "original_format":"mp3",
+        "license":"all-rights-reserved",
+        "uri":"https://api.soundcloud.com/tracks/228235014",
+        "user":{  
+          "id":176638756,
+          "kind":"user",
+          "permalink":"user-967907311",
+          "username":"Karen Hunter Show",
+          "last_modified":"2015/10/20 18:30:20 +0000",
+          "uri":"https://api.soundcloud.com/users/176638756",
+          "permalink_url":"http://soundcloud.com/user-967907311",
+          "avatar_url":"https://i1.sndcdn.com/avatars-000178926063-noy22k-large.jpg"
+        },
+        "permalink_url":"http://soundcloud.com/user-967907311/wealth-manager-ryan-c-mack-excessive-shopping-is-a-problem-for-both-men-women",
+        "artwork_url":"https://i1.sndcdn.com/artworks-000132602590-jkh3md-large.jpg",
+        "waveform_url":"https://w1.sndcdn.com/I1CpnnEKxA9s_m.png",
+        "stream_url":"https://api.soundcloud.com/tracks/228235014/stream",
+        "playback_count":2,
+        "download_count":0,
+        "favoritings_count":0,
+        "comment_count":0,
+        "attachments_uri":"https://api.soundcloud.com/tracks/228235014/attachments",
+        "policy":"ALLOW",
+        "monetization_model":"NOT_APPLICABLE"
+      },
+      {  
+        "kind":"track",
+        "id":228234632,
+        "created_at":"2015/10/13 17:16:32 +0000",
+        "user_id":176638756,
+        "duration":160013,
+        "commentable":true,
+        "state":"finished",
+        "original_content_size":6400299,
+        "last_modified":"2015/10/13 17:53:28 +0000",
+        "sharing":"public",
+        "tag_list":"Budgeting Money Wealth Empowerment",
+        "permalink":"ryan-c-mack-expert-wealth-manager-the-work-is-not-done-after-your-9-5",
+        "streamable":true,
+        "embeddable_by":"all",
+        "downloadable":false,
+        "purchase_url":"https://streaming.siriusxm.com/?%2Fflepz=true&campaign=SCNews&utm_campaign=SocialFreeTrial2013&utm_medium=SoundCloud&utm_source=SocialFTSCNews#_frmAccountLookup",
+        "label_id":null,
+        "purchase_title":null,
+        "genre":"Finance",
+        "title":"Ryan C. Mack, Expert Wealth Manager - \"The work is not done after your 9-5\"",
+        "description":"The Karen Hunter Show teaches the keys to entrepreneurial success in the industries of sports, politics, entertainment and so much more, directly from the celebrities and civilians who have personally created brands from the ground up. Hear the Karen Hunter Show on SiriusXM Urban View on-demand, channel 126 www.siriusxm.com/ondemand.\n\nFollow Karen Hunter at twitter.com/karenhunter\n",
+        "label_name":null,
+        "release":null,
+        "track_type":null,
+        "key_signature":null,
+        "isrc":null,
+        "video_url":null,
+        "bpm":null,
+        "release_year":null,
+        "release_month":null,
+        "release_day":null,
+        "original_format":"mp3",
+        "license":"all-rights-reserved",
+        "uri":"https://api.soundcloud.com/tracks/228234632",
+        "user":{  
+          "id":176638756,
+          "kind":"user",
+          "permalink":"user-967907311",
+          "username":"Karen Hunter Show",
+          "last_modified":"2015/10/20 18:30:20 +0000",
+          "uri":"https://api.soundcloud.com/users/176638756",
+          "permalink_url":"http://soundcloud.com/user-967907311",
+          "avatar_url":"https://i1.sndcdn.com/avatars-000178926063-noy22k-large.jpg"
+        },
+        "permalink_url":"http://soundcloud.com/user-967907311/ryan-c-mack-expert-wealth-manager-the-work-is-not-done-after-your-9-5",
+        "artwork_url":"https://i1.sndcdn.com/artworks-000132602355-gt5f9v-large.jpg",
+        "waveform_url":"https://w1.sndcdn.com/9B2L3PvbALhU_m.png",
+        "stream_url":"https://api.soundcloud.com/tracks/228234632/stream",
+        "playback_count":2,
+        "download_count":0,
+        "favoritings_count":0,
+        "comment_count":0,
+        "attachments_uri":"https://api.soundcloud.com/tracks/228234632/attachments",
+        "policy":"ALLOW",
+        "monetization_model":"NOT_APPLICABLE"
+      },
+      {  
+        "kind":"track",
+        "id":228234242,
+        "created_at":"2015/10/13 17:14:02 +0000",
+        "user_id":176638756,
+        "duration":458779,
+        "commentable":true,
+        "state":"finished",
+        "original_content_size":10999487,
+        "last_modified":"2015/10/13 17:52:56 +0000",
+        "sharing":"public",
+        "tag_list":"Business Finance Stocks",
+        "permalink":"ryan-c-mack-expert-wealth-manager-getting-acclimated-to-the-stock-market",
+        "streamable":true,
+        "embeddable_by":"all",
+        "downloadable":false,
+        "purchase_url":"https://streaming.siriusxm.com/?%2Fflepz=true&campaign=SCNews&utm_campaign=SocialFreeTrial2013&utm_medium=SoundCloud&utm_source=SocialFTSCNews#_frmAccountLookup",
+        "label_id":null,
+        "purchase_title":null,
+        "genre":"Money",
+        "title":"Ryan C. Mack, Expert Wealth Manager - Getting acclimated to the stock market",
+        "description":"Author & Expert Wealth Coach Ryan C. Mack says understanding stock market is vital to improving your life. \nThe Karen Hunter Show teaches the keys to entrepreneurial success in the industries of sports, politics, entertainment and so much more, directly from the celebrities and civilians who have personally created brands from the ground up.\nHear the Karen Hunter Show on SiriusXM Urban View on-demand, channel 126www.siriusxm.com/ondemand. Follow Karen Hunter at twitter.com/karenhunter\n",
+        "label_name":null,
+        "release":null,
+        "track_type":null,
+        "key_signature":null,
+        "isrc":null,
+        "video_url":null,
+        "bpm":null,
+        "release_year":null,
+        "release_month":null,
+        "release_day":null,
+        "original_format":"mp3",
+        "license":"all-rights-reserved",
+        "uri":"https://api.soundcloud.com/tracks/228234242",
+        "user":{  
+          "id":176638756,
+          "kind":"user",
+          "permalink":"user-967907311",
+          "username":"Karen Hunter Show",
+          "last_modified":"2015/10/20 18:30:20 +0000",
+          "uri":"https://api.soundcloud.com/users/176638756",
+          "permalink_url":"http://soundcloud.com/user-967907311",
+          "avatar_url":"https://i1.sndcdn.com/avatars-000178926063-noy22k-large.jpg"
+        },
+        "permalink_url":"http://soundcloud.com/user-967907311/ryan-c-mack-expert-wealth-manager-getting-acclimated-to-the-stock-market",
+        "artwork_url":"https://i1.sndcdn.com/artworks-000132602077-hdk1cd-large.jpg",
+        "waveform_url":"https://w1.sndcdn.com/iXbssTO0JzTb_m.png",
+        "stream_url":"https://api.soundcloud.com/tracks/228234242/stream",
+        "playback_count":3,
+        "download_count":0,
+        "favoritings_count":0,
+        "comment_count":0,
+        "attachments_uri":"https://api.soundcloud.com/tracks/228234242/attachments",
+        "policy":"ALLOW",
+        "monetization_model":"NOT_APPLICABLE"
+      },
+      {  
+        "kind":"track",
+        "id":228233918,
+        "created_at":"2015/10/13 17:11:50 +0000",
+        "user_id":176638756,
+        "duration":351066,
+        "commentable":true,
+        "state":"finished",
+        "original_content_size":8418432,
+        "last_modified":"2015/10/13 17:11:51 +0000",
+        "sharing":"public",
+        "tag_list":"Financial",
+        "permalink":"urban-views-lou-hutt-pushing-education-the-achilles-heel-of-black-businesses",
+        "streamable":true,
+        "embeddable_by":"all",
+        "downloadable":false,
+        "purchase_url":"https://streaming.siriusxm.com/?%2Fflepz=true&campaign=SCNews&utm_campaign=SocialFreeTrial2013&utm_medium=SoundCloud&utm_source=SocialFTSCNews#_frmAccountLookup",
+        "label_id":null,
+        "purchase_title":null,
+        "genre":"Business",
+        "title":"Urban View's Lou Hutt - Pushing education & the Achilles heel of black businesses",
+        "description":"The Karen Hunter Show teaches the keys to entrepreneurial success in the industries of sports, politics, entertainment and so much more, directly from the celebrities and civilians who have personally created brands from the ground up.\n\nHear the Karen Hunter Show on SiriusXM Urban View on-demand, channel 126www.siriusxm.com/ondemand. Follow Karen Hunter at twitter.com/karenhunter\n",
+        "label_name":null,
+        "release":null,
+        "track_type":null,
+        "key_signature":null,
+        "isrc":null,
+        "video_url":null,
+        "bpm":null,
+        "release_year":null,
+        "release_month":null,
+        "release_day":null,
+        "original_format":"mp3",
+        "license":"all-rights-reserved",
+        "uri":"https://api.soundcloud.com/tracks/228233918",
+        "user":{  
+          "id":176638756,
+          "kind":"user",
+          "permalink":"user-967907311",
+          "username":"Karen Hunter Show",
+          "last_modified":"2015/10/20 18:30:20 +0000",
+          "uri":"https://api.soundcloud.com/users/176638756",
+          "permalink_url":"http://soundcloud.com/user-967907311",
+          "avatar_url":"https://i1.sndcdn.com/avatars-000178926063-noy22k-large.jpg"
+        },
+        "permalink_url":"http://soundcloud.com/user-967907311/urban-views-lou-hutt-pushing-education-the-achilles-heel-of-black-businesses",
+        "artwork_url":"https://i1.sndcdn.com/artworks-000132601878-jvrpsl-large.jpg",
+        "waveform_url":"https://w1.sndcdn.com/0tIdsbZWIrDe_m.png",
+        "stream_url":"https://api.soundcloud.com/tracks/228233918/stream",
+        "playback_count":6,
+        "download_count":0,
+        "favoritings_count":0,
+        "comment_count":0,
+        "attachments_uri":"https://api.soundcloud.com/tracks/228233918/attachments",
+        "policy":"ALLOW",
+        "monetization_model":"NOT_APPLICABLE"
+      },
+      {  
+        "kind":"track",
+        "id":228233074,
+        "created_at":"2015/10/13 17:06:21 +0000",
+        "user_id":176638756,
+        "duration":269190,
+        "commentable":true,
+        "state":"finished",
+        "original_content_size":10764231,
+        "last_modified":"2015/10/13 17:06:22 +0000",
+        "sharing":"public",
+        "tag_list":"\"Rick Ross\" Bankruptcy",
+        "permalink":"attorney-john-burns-on-bankruptcy-50-cent-is-definitely-not-broke-he-is-not-stupid",
+        "streamable":true,
+        "embeddable_by":"all",
+        "downloadable":false,
+        "purchase_url":"https://streaming.siriusxm.com/?%2Fflepz=true&campaign=SCNews&utm_campaign=SocialFreeTrial2013&utm_medium=SoundCloud&utm_source=SocialFTSCNews#_frmAccountLookup",
+        "label_id":null,
+        "purchase_title":null,
+        "genre":"50 Cent",
+        "title":"Attorney John Burns on bankruptcy \"50 Cent is definitely not broke & he is not stupid\"",
+        "description":"The Karen Hunter Show teaches the keys to entrepreneurial success in the industries of sports, politics, entertainment and so much more, directly from the celebrities and civilians who have personally created brands from the ground up. Hear the Karen Hunter Show on SiriusXM Urban View on-demand, channel 126 www.siriusxm.com/ondemand.",
+        "label_name":null,
+        "release":null,
+        "track_type":null,
+        "key_signature":null,
+        "isrc":null,
+        "video_url":null,
+        "bpm":null,
+        "release_year":null,
+        "release_month":null,
+        "release_day":null,
+        "original_format":"mp3",
+        "license":"all-rights-reserved",
+        "uri":"https://api.soundcloud.com/tracks/228233074",
+        "user":{  
+          "id":176638756,
+          "kind":"user",
+          "permalink":"user-967907311",
+          "username":"Karen Hunter Show",
+          "last_modified":"2015/10/20 18:30:20 +0000",
+          "uri":"https://api.soundcloud.com/users/176638756",
+          "permalink_url":"http://soundcloud.com/user-967907311",
+          "avatar_url":"https://i1.sndcdn.com/avatars-000178926063-noy22k-large.jpg"
+        },
+        "permalink_url":"http://soundcloud.com/user-967907311/attorney-john-burns-on-bankruptcy-50-cent-is-definitely-not-broke-he-is-not-stupid",
+        "artwork_url":"https://i1.sndcdn.com/artworks-000132601307-lgetmd-large.jpg",
+        "waveform_url":"https://w1.sndcdn.com/0bYXUy0rr8WP_m.png",
+        "stream_url":"https://api.soundcloud.com/tracks/228233074/stream",
+        "playback_count":6,
+        "download_count":0,
+        "favoritings_count":1,
+        "comment_count":0,
+        "attachments_uri":"https://api.soundcloud.com/tracks/228233074/attachments",
+        "policy":"ALLOW",
+        "monetization_model":"NOT_APPLICABLE"
+      },
+      {  
+        "kind":"track",
+        "id":228232733,
+        "created_at":"2015/10/13 17:04:15 +0000",
+        "user_id":176638756,
+        "duration":559856,
+        "commentable":true,
+        "state":"finished",
+        "original_content_size":13421485,
+        "last_modified":"2015/10/13 17:04:16 +0000",
+        "sharing":"public",
+        "tag_list":"Wealth Economics",
+        "permalink":"cousin-syl-financial-advisor-harry-harris-insurance-as-a-wealth-builder",
+        "streamable":true,
+        "embeddable_by":"all",
+        "downloadable":false,
+        "purchase_url":"https://streaming.siriusxm.com/?%2Fflepz=true&campaign=SCNews&utm_campaign=SocialFreeTrial2013&utm_medium=SoundCloud&utm_source=SocialFTSCNews#_frmAccountLookup",
+        "label_id":null,
+        "purchase_title":null,
+        "genre":"Insurance",
+        "title":"Cousin Syl & Financial Advisor Harry Harris - Insurance as a wealth builder",
+        "description":"The Karen Hunter Show teaches the keys to entrepreneurial success in the industries of sports, politics, entertainment and so much more, directly from the celebrities and civilians who have personally created brands from the ground up.\n\nHear the Karen Hunter Show on SiriusXM Urban View on-demand, channel 126www.siriusxm.com/ondemand. Follow Karen Hunter at twitter.com/karenhunter\n",
+        "label_name":null,
+        "release":null,
+        "track_type":null,
+        "key_signature":null,
+        "isrc":null,
+        "video_url":null,
+        "bpm":null,
+        "release_year":null,
+        "release_month":null,
+        "release_day":null,
+        "original_format":"mp3",
+        "license":"all-rights-reserved",
+        "uri":"https://api.soundcloud.com/tracks/228232733",
+        "user":{  
+          "id":176638756,
+          "kind":"user",
+          "permalink":"user-967907311",
+          "username":"Karen Hunter Show",
+          "last_modified":"2015/10/20 18:30:20 +0000",
+          "uri":"https://api.soundcloud.com/users/176638756",
+          "permalink_url":"http://soundcloud.com/user-967907311",
+          "avatar_url":"https://i1.sndcdn.com/avatars-000178926063-noy22k-large.jpg"
+        },
+        "permalink_url":"http://soundcloud.com/user-967907311/cousin-syl-financial-advisor-harry-harris-insurance-as-a-wealth-builder",
+        "artwork_url":"https://i1.sndcdn.com/artworks-000132601100-i6fmsp-large.jpg",
+        "waveform_url":"https://w1.sndcdn.com/uJkTLEOJGU69_m.png",
+        "stream_url":"https://api.soundcloud.com/tracks/228232733/stream",
+        "playback_count":6,
+        "download_count":0,
+        "favoritings_count":0,
+        "comment_count":0,
+        "attachments_uri":"https://api.soundcloud.com/tracks/228232733/attachments",
+        "policy":"ALLOW",
+        "monetization_model":"NOT_APPLICABLE"
+      },
+      {  
+        "kind":"track",
+        "id":228232239,
+        "created_at":"2015/10/13 17:01:29 +0000",
+        "user_id":176638756,
+        "duration":278099,
+        "commentable":true,
+        "state":"finished",
+        "original_content_size":6670201,
+        "last_modified":"2015/10/18 14:22:43 +0000",
+        "sharing":"public",
+        "tag_list":"Fami",
+        "permalink":"cousin-syl-financial-advisor-harry-harris-on-life-insurance-dos-donts",
+        "streamable":true,
+        "embeddable_by":"all",
+        "downloadable":false,
+        "purchase_url":"https://streaming.siriusxm.com/?%2Fflepz=true&campaign=SCNews&utm_campaign=SocialFreeTrial2013&utm_medium=SoundCloud&utm_source=SocialFTSCNews#_frmAccountLookup",
+        "label_id":null,
+        "purchase_title":null,
+        "genre":"Insurance",
+        "title":"Cousin Syl & Financial Advisor Harry Harris on life insurance do's & don'ts",
+        "description":"The Karen Hunter Show teaches the keys to entrepreneurial success in the industries of sports, politics, entertainment and so much more, directly from the celebrities and civilians who have personally created brands from the ground up.\n\nHear the Karen Hunter Show on SiriusXM Urban View on-demand, channel 126 www.siriusxm.com/ondemand. Follow Karen Hunter at twitter.com/karenhunter\n",
+        "label_name":null,
+        "release":null,
+        "track_type":null,
+        "key_signature":null,
+        "isrc":null,
+        "video_url":null,
+        "bpm":null,
+        "release_year":null,
+        "release_month":null,
+        "release_day":null,
+        "original_format":"mp3",
+        "license":"all-rights-reserved",
+        "uri":"https://api.soundcloud.com/tracks/228232239",
+        "user":{  
+          "id":176638756,
+          "kind":"user",
+          "permalink":"user-967907311",
+          "username":"Karen Hunter Show",
+          "last_modified":"2015/10/20 18:30:20 +0000",
+          "uri":"https://api.soundcloud.com/users/176638756",
+          "permalink_url":"http://soundcloud.com/user-967907311",
+          "avatar_url":"https://i1.sndcdn.com/avatars-000178926063-noy22k-large.jpg"
+        },
+        "permalink_url":"http://soundcloud.com/user-967907311/cousin-syl-financial-advisor-harry-harris-on-life-insurance-dos-donts",
+        "artwork_url":"https://i1.sndcdn.com/artworks-000132600756-lb8eus-large.jpg",
+        "waveform_url":"https://w1.sndcdn.com/f826XAK2LAZY_m.png",
+        "stream_url":"https://api.soundcloud.com/tracks/228232239/stream",
+        "playback_count":2,
+        "download_count":0,
+        "favoritings_count":0,
+        "comment_count":0,
+        "attachments_uri":"https://api.soundcloud.com/tracks/228232239/attachments",
+        "policy":"ALLOW",
+        "monetization_model":"NOT_APPLICABLE"
+      }
+    ],
+    "youtube" : [
+      {
+       "kind": "youtube#searchResult",
+       "etag": "\"0KG1mRN7bm3nResDPKHQZpg5-do/9GzrU_X5fvWqnBXzi_WPbbRb_do\"",
+       "id": {
+        "kind": "youtube#video",
+        "videoId": "G1sq1P0yt74"
+       },
+       "snippet": {
+        "publishedAt": "2015-06-22T14:08:59.000Z",
+        "channelId": "UCVbKWqUXDRdspaJ2v-prwnQ",
+        "title": "Karen Hunter on petition to remove Confederate Flag",
+        "description": "Karen Hunter, who began a petition on MoveOn.org that in 3 days got 500000 signatures, explains why on Canadian Broadcasting with Asha Tomlinson.",
+        "thumbnails": {
+         "default": {
+          "url": "https://i.ytimg.com/vi/G1sq1P0yt74/default.jpg"
+         },
+         "medium": {
+          "url": "https://i.ytimg.com/vi/G1sq1P0yt74/mqdefault.jpg"
+         },
+         "high": {
+          "url": "https://i.ytimg.com/vi/G1sq1P0yt74/hqdefault.jpg"
+         }
+        },
+        "channelTitle": "TheKarenHunterShow",
+        "liveBroadcastContent": "none"
+       }
+      },
+      {
+       "kind": "youtube#searchResult",
+       "etag": "\"0KG1mRN7bm3nResDPKHQZpg5-do/i_tVBYLO5S1--8wgNK7GuyZI6gU\"",
+       "id": {
+        "kind": "youtube#video",
+        "videoId": "-SVZKzZUbOM"
+       },
+       "snippet": {
+        "publishedAt": "2009-09-13T19:59:32.000Z",
+        "channelId": "UCHegi3yBeL9oVDtlGR5lTbA",
+        "title": "Karen Hunter Cry's Racism On MSNBC, Gets Smacked Down By Amanda Carpenter",
+        "description": "Airing Date.September.13, 2009 Karen Hunter \"Opposition Of Obama Is Weird\" Karen Hunter Cry's Racism On MSNBC Gets Smacked Down By Amanda ...",
+        "thumbnails": {
+         "default": {
+          "url": "https://i.ytimg.com/vi/-SVZKzZUbOM/default.jpg"
+         },
+         "medium": {
+          "url": "https://i.ytimg.com/vi/-SVZKzZUbOM/mqdefault.jpg"
+         },
+         "high": {
+          "url": "https://i.ytimg.com/vi/-SVZKzZUbOM/hqdefault.jpg"
+         }
+        },
+        "channelTitle": "SaveOurSovereignty3",
+        "liveBroadcastContent": "none"
+       }
+      },
+      {
+       "kind": "youtube#searchResult",
+       "etag": "\"0KG1mRN7bm3nResDPKHQZpg5-do/y8N3rQnisXyUDBV3kdnZOA9u4rM\"",
+       "id": {
+        "kind": "youtube#video",
+        "videoId": "Lc_tNqhxkuo"
+       },
+       "snippet": {
+        "publishedAt": "2014-08-11T16:02:12.000Z",
+        "channelId": "UCnJQhbdFn-_Crs21-X8XFrQ",
+        "title": "Pulitzer Prize winner and celebrated radio talk-show host Karen Hunter",
+        "description": "The Joe Madison Show - Joe interview's Pulitzer Prize winner and celebrated radio talk-show host Karen Hunter. Karen was on with Joe to discuss her new ...",
+        "thumbnails": {
+         "default": {
+          "url": "https://i.ytimg.com/vi/Lc_tNqhxkuo/default.jpg"
+         },
+         "medium": {
+          "url": "https://i.ytimg.com/vi/Lc_tNqhxkuo/mqdefault.jpg"
+         },
+         "high": {
+          "url": "https://i.ytimg.com/vi/Lc_tNqhxkuo/hqdefault.jpg"
+         }
+        },
+        "channelTitle": "BlackEaglePower",
+        "liveBroadcastContent": "none"
+       }
+      },
+      {
+       "kind": "youtube#searchResult",
+       "etag": "\"0KG1mRN7bm3nResDPKHQZpg5-do/Lsxq0sG-Abhd6xbsYAhtn0xzTVA\"",
+       "id": {
+        "kind": "youtube#video",
+        "videoId": "wuEbGiyoonE"
+       },
+       "snippet": {
+        "publishedAt": "2007-05-04T21:24:41.000Z",
+        "channelId": "UCLY4XwZVECAL1he1luk5Cfw",
+        "title": "Karen Hunter Interview",
+        "description": "Karen Hunter Interview at WWRL 2004.",
+        "thumbnails": {
+         "default": {
+          "url": "https://i.ytimg.com/vi/wuEbGiyoonE/default.jpg"
+         },
+         "medium": {
+          "url": "https://i.ytimg.com/vi/wuEbGiyoonE/mqdefault.jpg"
+         },
+         "high": {
+          "url": "https://i.ytimg.com/vi/wuEbGiyoonE/hqdefault.jpg"
+         }
+        },
+        "channelTitle": "djafrican",
+        "liveBroadcastContent": "none"
+       }
+      },
+      {
+       "kind": "youtube#searchResult",
+       "etag": "\"0KG1mRN7bm3nResDPKHQZpg5-do/lxUd09TO2MNDfkC0bf0SAyLC1kI\"",
+       "id": {
+        "kind": "youtube#video",
+        "videoId": "wf7rQkBioVg"
+       },
+       "snippet": {
+        "publishedAt": "2012-06-02T04:59:58.000Z",
+        "channelId": "UC7KuzeXXWJSjKV7ZIWH7GHA",
+        "title": "MSNBC's Karen Hunter on Romney Campaign Diversity",
+        "description": "MSNBC's Karen Hunter criticizes Mitt Romney's campaign ad for a lack of diversity in message and those who surround him. As for the Obama campaign and ...",
+        "thumbnails": {
+         "default": {
+          "url": "https://i.ytimg.com/vi/wf7rQkBioVg/default.jpg"
+         },
+         "medium": {
+          "url": "https://i.ytimg.com/vi/wf7rQkBioVg/mqdefault.jpg"
+         },
+         "high": {
+          "url": "https://i.ytimg.com/vi/wf7rQkBioVg/hqdefault.jpg"
+         }
+        },
+        "channelTitle": "BlackAndRight",
+        "liveBroadcastContent": "none"
+       }
+      },
+      {
+       "kind": "youtube#searchResult",
+       "etag": "\"0KG1mRN7bm3nResDPKHQZpg5-do/a80vAtXkcRge1D1arDfWjIzw3w4\"",
+       "id": {
+        "kind": "youtube#video",
+        "videoId": "RslwSEpaC6I"
+       },
+       "snippet": {
+        "publishedAt": "2015-07-29T15:10:06.000Z",
+        "channelId": "UCVbKWqUXDRdspaJ2v-prwnQ",
+        "title": "Jameson Pays Ron Back",
+        "description": "A Karen Hunter Show team member ALWAYS Pays his debts! (also, testing out this new Polaroid Cube)...",
+        "thumbnails": {
+         "default": {
+          "url": "https://i.ytimg.com/vi/RslwSEpaC6I/default.jpg"
+         },
+         "medium": {
+          "url": "https://i.ytimg.com/vi/RslwSEpaC6I/mqdefault.jpg"
+         },
+         "high": {
+          "url": "https://i.ytimg.com/vi/RslwSEpaC6I/hqdefault.jpg"
+         }
+        },
+        "channelTitle": "TheKarenHunterShow",
+        "liveBroadcastContent": "none"
+       }
+      },
+      {
+       "kind": "youtube#searchResult",
+       "etag": "\"0KG1mRN7bm3nResDPKHQZpg5-do/i70R7Cnk9MPulEt4gXhitVdwrAo\"",
+       "id": {
+        "kind": "youtube#video",
+        "videoId": "xon8vdyAW8A"
+       },
+       "snippet": {
+        "publishedAt": "2015-10-09T00:25:57.000Z",
+        "channelId": "UC1yBKRuGpC1tSM73A0ZjYjQ",
+        "title": "Ben Carson Calmly Redirected Armed Robber From Himself To Cashier",
+        "description": "Last week Ben Carson faced a considerable amount of criticism after he argued that the students in the Oregon community college should have tackled the ...",
+        "thumbnails": {
+         "default": {
+          "url": "https://i.ytimg.com/vi/xon8vdyAW8A/default.jpg"
+         },
+         "medium": {
+          "url": "https://i.ytimg.com/vi/xon8vdyAW8A/mqdefault.jpg"
+         },
+         "high": {
+          "url": "https://i.ytimg.com/vi/xon8vdyAW8A/hqdefault.jpg"
+         }
+        },
+        "channelTitle": "TheYoungTurks",
+        "liveBroadcastContent": "none"
+       }
+      },
+      {
+       "kind": "youtube#searchResult",
+       "etag": "\"0KG1mRN7bm3nResDPKHQZpg5-do/bwpSwnJkWXGFijIwORRjDwhf6AY\"",
+       "id": {
+        "kind": "youtube#video",
+        "videoId": "jGJKBZZRkmw"
+       },
+       "snippet": {
+        "publishedAt": "2015-01-01T02:29:52.000Z",
+        "channelId": "UCVbKWqUXDRdspaJ2v-prwnQ",
+        "title": "Turnt Up Fridays 2",
+        "description": "Ron brought the \"libations\" that turned Friday into Turnt Up Friday with Cousin Syl, Truth in the Universe and the whole gang. @karenhuntershow.",
+        "thumbnails": {
+         "default": {
+          "url": "https://i.ytimg.com/vi/jGJKBZZRkmw/default.jpg"
+         },
+         "medium": {
+          "url": "https://i.ytimg.com/vi/jGJKBZZRkmw/mqdefault.jpg"
+         },
+         "high": {
+          "url": "https://i.ytimg.com/vi/jGJKBZZRkmw/hqdefault.jpg"
+         }
+        },
+        "channelTitle": "TheKarenHunterShow",
+        "liveBroadcastContent": "none"
+       }
+      },
+      {
+       "kind": "youtube#searchResult",
+       "etag": "\"0KG1mRN7bm3nResDPKHQZpg5-do/d6Anj7lkVfEcPd1rvhqcrGvlIbI\"",
+       "id": {
+        "kind": "youtube#video",
+        "videoId": "2nnPTEPwrUs"
+       },
+       "snippet": {
+        "publishedAt": "2015-01-17T20:01:45.000Z",
+        "channelId": "UCVbKWqUXDRdspaJ2v-prwnQ",
+        "title": "Jameson swigs B52 shot",
+        "description": "Jameson samples the test-run of the B52 shot. This is behind-the-scenes of Foolishness Fridays on The Karen Hunter Show on SiriusXM.",
+        "thumbnails": {
+         "default": {
+          "url": "https://i.ytimg.com/vi/2nnPTEPwrUs/default.jpg"
+         },
+         "medium": {
+          "url": "https://i.ytimg.com/vi/2nnPTEPwrUs/mqdefault.jpg"
+         },
+         "high": {
+          "url": "https://i.ytimg.com/vi/2nnPTEPwrUs/hqdefault.jpg"
+         }
+        },
+        "channelTitle": "TheKarenHunterShow",
+        "liveBroadcastContent": "none"
+       }
+      },
+      {
+       "kind": "youtube#searchResult",
+       "etag": "\"0KG1mRN7bm3nResDPKHQZpg5-do/mDGQc1bSMiFpahgd-dLKwKSPw3I\"",
+       "id": {
+        "kind": "youtube#video",
+        "videoId": "Pc9Vl53_tkA"
+       },
+       "snippet": {
+        "publishedAt": "2014-11-23T16:03:02.000Z",
+        "channelId": "UCVbKWqUXDRdspaJ2v-prwnQ",
+        "title": "Turnt Up Fridays",
+        "description": "THIS is just a little taste of what goes in The Karen Hunter Show studios on most Fridays.",
+        "thumbnails": {
+         "default": {
+          "url": "https://i.ytimg.com/vi/Pc9Vl53_tkA/default.jpg"
+         },
+         "medium": {
+          "url": "https://i.ytimg.com/vi/Pc9Vl53_tkA/mqdefault.jpg"
+         },
+         "high": {
+          "url": "https://i.ytimg.com/vi/Pc9Vl53_tkA/hqdefault.jpg"
+         }
+        },
+        "channelTitle": "TheKarenHunterShow",
+        "liveBroadcastContent": "none"
+       }
+      },
+      {
+       "kind": "youtube#searchResult",
+       "etag": "\"0KG1mRN7bm3nResDPKHQZpg5-do/o_kRm5DvMAt7Kar0sLhfbEnBJcw\"",
+       "id": {
+        "kind": "youtube#video",
+        "videoId": "jCfL5Ok1SWA"
+       },
+       "snippet": {
+        "publishedAt": "2014-10-15T00:55:04.000Z",
+        "channelId": "UCVbKWqUXDRdspaJ2v-prwnQ",
+        "title": "Sugar High",
+        "description": "Let 'Em Eat Cake! Me and the Ladies at BCakeShop.com chat about their business on The Karen Hunter Show: SiriusXM Urban View, Channel 126!",
+        "thumbnails": {
+         "default": {
+          "url": "https://i.ytimg.com/vi/jCfL5Ok1SWA/default.jpg"
+         },
+         "medium": {
+          "url": "https://i.ytimg.com/vi/jCfL5Ok1SWA/mqdefault.jpg"
+         },
+         "high": {
+          "url": "https://i.ytimg.com/vi/jCfL5Ok1SWA/hqdefault.jpg"
+         }
+        },
+        "channelTitle": "TheKarenHunterShow",
+        "liveBroadcastContent": "none"
+       }
+      },
+      {
+       "kind": "youtube#searchResult",
+       "etag": "\"0KG1mRN7bm3nResDPKHQZpg5-do/Qkz0I0ZRPzUqXocn1ivN7FB6gbA\"",
+       "id": {
+        "kind": "youtube#video",
+        "videoId": "7ezUdXioHZg"
+       },
+       "snippet": {
+        "publishedAt": "2014-10-26T22:45:55.000Z",
+        "channelId": "UCVbKWqUXDRdspaJ2v-prwnQ",
+        "title": "Karoline's Kimono",
+        "description": "Karen Hunter Show's engineer, Karoline, models her kimono.",
+        "thumbnails": {
+         "default": {
+          "url": "https://i.ytimg.com/vi/7ezUdXioHZg/default.jpg"
+         },
+         "medium": {
+          "url": "https://i.ytimg.com/vi/7ezUdXioHZg/mqdefault.jpg"
+         },
+         "high": {
+          "url": "https://i.ytimg.com/vi/7ezUdXioHZg/hqdefault.jpg"
+         }
+        },
+        "channelTitle": "TheKarenHunterShow",
+        "liveBroadcastContent": "none"
+       }
+      },
+      {
+       "kind": "youtube#searchResult",
+       "etag": "\"0KG1mRN7bm3nResDPKHQZpg5-do/chvD5e2neCZTb1PtdkjQntE8LMg\"",
+       "id": {
+        "kind": "youtube#video",
+        "videoId": "i81Px2a41GE"
+       },
+       "snippet": {
+        "publishedAt": "2014-10-07T23:59:05.000Z",
+        "channelId": "UCVbKWqUXDRdspaJ2v-prwnQ",
+        "title": "First Day Back",
+        "description": "The Karen Hunter Show \"In the Studio\": A quick look literally at the inside of the studio.",
+        "thumbnails": {
+         "default": {
+          "url": "https://i.ytimg.com/vi/i81Px2a41GE/default.jpg"
+         },
+         "medium": {
+          "url": "https://i.ytimg.com/vi/i81Px2a41GE/mqdefault.jpg"
+         },
+         "high": {
+          "url": "https://i.ytimg.com/vi/i81Px2a41GE/hqdefault.jpg"
+         }
+        },
+        "channelTitle": "TheKarenHunterShow",
+        "liveBroadcastContent": "none"
+       }
+      },
+      {
+       "kind": "youtube#searchResult",
+       "etag": "\"0KG1mRN7bm3nResDPKHQZpg5-do/3193-vra51vuecJIP6qpWFAOlLg\"",
+       "id": {
+        "kind": "youtube#video",
+        "videoId": "YgxTR6YH3K8"
+       },
+       "snippet": {
+        "publishedAt": "2014-10-07T23:50:01.000Z",
+        "channelId": "UCVbKWqUXDRdspaJ2v-prwnQ",
+        "title": "Cousin Syl's Shoes",
+        "description": "The Karen Hunter Show \"In the Studio\": Behind the scenes of one of the hottest shows on SiriusXM (Channel 126, Monday-Friday 4-6 p.m. EST).",
+        "thumbnails": {
+         "default": {
+          "url": "https://i.ytimg.com/vi/YgxTR6YH3K8/default.jpg"
+         },
+         "medium": {
+          "url": "https://i.ytimg.com/vi/YgxTR6YH3K8/mqdefault.jpg"
+         },
+         "high": {
+          "url": "https://i.ytimg.com/vi/YgxTR6YH3K8/hqdefault.jpg"
+         }
+        },
+        "channelTitle": "TheKarenHunterShow",
+        "liveBroadcastContent": "none"
+       }
+      },
+      {
+       "kind": "youtube#searchResult",
+       "etag": "\"0KG1mRN7bm3nResDPKHQZpg5-do/jqDKmHEuv2mTXubH1IvErACyARY\"",
+       "id": {
+        "kind": "youtube#video",
+        "videoId": "keMThacJedI"
+       },
+       "snippet": {
+        "publishedAt": "2015-04-28T19:30:00.000Z",
+        "channelId": "UCbjBOso0vpWgDht9dPIVwhQ",
+        "title": "Baltimore...the new Detroit?",
+        "description": "Thom Hartmann discusses the rioting in Baltimore following the Freddy Gray funeral with Karen Hunter, Host-The Karen Hunter Show, M-F, 4-6 p.m. ET & PT, ...",
+        "thumbnails": {
+         "default": {
+          "url": "https://i.ytimg.com/vi/keMThacJedI/default.jpg"
+         },
+         "medium": {
+          "url": "https://i.ytimg.com/vi/keMThacJedI/mqdefault.jpg"
+         },
+         "high": {
+          "url": "https://i.ytimg.com/vi/keMThacJedI/hqdefault.jpg"
+         }
+        },
+        "channelTitle": "thomhartmann",
+        "liveBroadcastContent": "none"
+       }
+      },
+      {
+       "kind": "youtube#searchResult",
+       "etag": "\"0KG1mRN7bm3nResDPKHQZpg5-do/pYUA1usaqM72wNm3gpHkZiY8bY8\"",
+       "id": {
+        "kind": "youtube#video",
+        "videoId": "zeZIZLuLCCI"
+       },
+       "snippet": {
+        "publishedAt": "2014-10-08T04:04:26.000Z",
+        "channelId": "UCVbKWqUXDRdspaJ2v-prwnQ",
+        "title": "Ron-Sock Man",
+        "description": "Karen Hunter Show's Ron showing off his latest socks before we go on the air.",
+        "thumbnails": {
+         "default": {
+          "url": "https://i.ytimg.com/vi/zeZIZLuLCCI/default.jpg"
+         },
+         "medium": {
+          "url": "https://i.ytimg.com/vi/zeZIZLuLCCI/mqdefault.jpg"
+         },
+         "high": {
+          "url": "https://i.ytimg.com/vi/zeZIZLuLCCI/hqdefault.jpg"
+         }
+        },
+        "channelTitle": "TheKarenHunterShow",
+        "liveBroadcastContent": "none"
+       }
+      },
+      {
+       "kind": "youtube#searchResult",
+       "etag": "\"0KG1mRN7bm3nResDPKHQZpg5-do/ICjDXjeCiyWXUZOWAfYMzw-hxYI\"",
+       "id": {
+        "kind": "youtube#video",
+        "videoId": "iDy8OgGKHTA"
+       },
+       "snippet": {
+        "publishedAt": "2014-10-20T01:00:08.000Z",
+        "channelId": "UCVbKWqUXDRdspaJ2v-prwnQ",
+        "title": "No Fist Bumping Allowed",
+        "description": "",
+        "thumbnails": {
+         "default": {
+          "url": "https://i.ytimg.com/vi/iDy8OgGKHTA/default.jpg"
+         },
+         "medium": {
+          "url": "https://i.ytimg.com/vi/iDy8OgGKHTA/mqdefault.jpg"
+         },
+         "high": {
+          "url": "https://i.ytimg.com/vi/iDy8OgGKHTA/hqdefault.jpg"
+         }
+        },
+        "channelTitle": "TheKarenHunterShow",
+        "liveBroadcastContent": "none"
+       }
+      },
+      {
+       "kind": "youtube#searchResult",
+       "etag": "\"0KG1mRN7bm3nResDPKHQZpg5-do/r4UyIaVIdQcz_pmoSsJJYZBjsyY\"",
+       "id": {
+        "kind": "youtube#video",
+        "videoId": "EfaK-KZlHJs"
+       },
+       "snippet": {
+        "publishedAt": "2014-10-21T16:58:34.000Z",
+        "channelId": "UCVbKWqUXDRdspaJ2v-prwnQ",
+        "title": "Mic Check With Karoline",
+        "description": "",
+        "thumbnails": {
+         "default": {
+          "url": "https://i.ytimg.com/vi/EfaK-KZlHJs/default.jpg"
+         },
+         "medium": {
+          "url": "https://i.ytimg.com/vi/EfaK-KZlHJs/mqdefault.jpg"
+         },
+         "high": {
+          "url": "https://i.ytimg.com/vi/EfaK-KZlHJs/hqdefault.jpg"
+         }
+        },
+        "channelTitle": "TheKarenHunterShow",
+        "liveBroadcastContent": "none"
+       }
+      },
+      {
+       "kind": "youtube#searchResult",
+       "etag": "\"0KG1mRN7bm3nResDPKHQZpg5-do/Fj31E7z_9AboGjLxmYYSxrVPN2Y\"",
+       "id": {
+        "kind": "youtube#video",
+        "videoId": "hq8p3-S6NHM"
+       },
+       "snippet": {
+        "publishedAt": "2010-02-18T21:02:53.000Z",
+        "channelId": "UCFLRxVeYcB1H7DbuYZQG-lg",
+        "title": "GRITtv: Karen Hunter: Being Black in the Newsroom",
+        "description": "Karen Hunter talks about working at the New York Daily News after Amadou Diallo's shooting, and how black journalists have to fight to get their voices heard.",
+        "thumbnails": {
+         "default": {
+          "url": "https://i.ytimg.com/vi/hq8p3-S6NHM/default.jpg"
+         },
+         "medium": {
+          "url": "https://i.ytimg.com/vi/hq8p3-S6NHM/mqdefault.jpg"
+         },
+         "high": {
+          "url": "https://i.ytimg.com/vi/hq8p3-S6NHM/hqdefault.jpg"
+         }
+        },
+        "channelTitle": "lauraflanders",
+        "liveBroadcastContent": "none"
+       }
+      },
+      {
+       "kind": "youtube#searchResult",
+       "etag": "\"0KG1mRN7bm3nResDPKHQZpg5-do/QfrdTD4G7GKyI2Q8RDMQSowRmR8\"",
+       "id": {
+        "kind": "youtube#video",
+        "videoId": "4HVVQ7rsFrE"
+       },
+       "snippet": {
+        "publishedAt": "2015-02-24T17:45:27.000Z",
+        "channelId": "UCQcPBLsq9rRc5TxDqSz_Dog",
+        "title": "Angry feminist attacks Dr Umar Johnson in public",
+        "description": "This interesting interaction between Dr Umar Johnson and a feminist in Kansas City was interesting to observe. It also gives us a lot to talk about when it comes ...",
+        "thumbnails": {
+         "default": {
+          "url": "https://i.ytimg.com/vi/4HVVQ7rsFrE/default.jpg"
+         },
+         "medium": {
+          "url": "https://i.ytimg.com/vi/4HVVQ7rsFrE/mqdefault.jpg"
+         },
+         "high": {
+          "url": "https://i.ytimg.com/vi/4HVVQ7rsFrE/hqdefault.jpg"
+         }
+        },
+        "channelTitle": "drboycewatkins",
+        "liveBroadcastContent": "none"
+       }
+      },
+      {
+       "kind": "youtube#searchResult",
+       "etag": "\"0KG1mRN7bm3nResDPKHQZpg5-do/BDhg2PuBan0PTrd2WF-uxitJ2Pk\"",
+       "id": {
+        "kind": "youtube#video",
+        "videoId": "poxW6eqfjuI"
+       },
+       "snippet": {
+        "publishedAt": "2014-08-01T17:09:49.000Z",
+        "channelId": "UC3OuHjcJm1IqFrGhiSpIeUw",
+        "title": "LEFT, RIGHT, AND MIDDLE WITH KAREN HUNTER AND HORACE COOPER 07/31/14",
+        "description": "Arise News sat down with award-winning journalist Karen Hunter and Washington attorney Horace Cooper to get a take on the news from the left, right, and ...",
+        "thumbnails": {
+         "default": {
+          "url": "https://i.ytimg.com/vi/poxW6eqfjuI/default.jpg"
+         },
+         "medium": {
+          "url": "https://i.ytimg.com/vi/poxW6eqfjuI/mqdefault.jpg"
+         },
+         "high": {
+          "url": "https://i.ytimg.com/vi/poxW6eqfjuI/hqdefault.jpg"
+         }
+        },
+        "channelTitle": "AriseAmericaTV",
+        "liveBroadcastContent": "none"
+       }
+      },
+      {
+       "kind": "youtube#searchResult",
+       "etag": "\"0KG1mRN7bm3nResDPKHQZpg5-do/SoYU9O3YS9FEaGNV3oIUK05M1Oo\"",
+       "id": {
+        "kind": "youtube#video",
+        "videoId": "eZb_4oX9UaU"
+       },
+       "snippet": {
+        "publishedAt": "2015-01-24T05:05:19.000Z",
+        "channelId": "UCVbKWqUXDRdspaJ2v-prwnQ",
+        "title": "Friday Foolishness 1 23 15",
+        "description": "",
+        "thumbnails": {
+         "default": {
+          "url": "https://i.ytimg.com/vi/eZb_4oX9UaU/default.jpg"
+         },
+         "medium": {
+          "url": "https://i.ytimg.com/vi/eZb_4oX9UaU/mqdefault.jpg"
+         },
+         "high": {
+          "url": "https://i.ytimg.com/vi/eZb_4oX9UaU/hqdefault.jpg"
+         }
+        },
+        "channelTitle": "TheKarenHunterShow",
+        "liveBroadcastContent": "none"
+       }
+      },
+      {
+       "kind": "youtube#searchResult",
+       "etag": "\"0KG1mRN7bm3nResDPKHQZpg5-do/Mpo9xzOTVb8xiUfhTS9_6ndiWrY\"",
+       "id": {
+        "kind": "youtube#video",
+        "videoId": "NGCXSXCcUVY"
+       },
+       "snippet": {
+        "publishedAt": "2015-01-13T14:42:10.000Z",
+        "channelId": "UCVbKWqUXDRdspaJ2v-prwnQ",
+        "title": "Cousin Syl Lost A Bet",
+        "description": "",
+        "thumbnails": {
+         "default": {
+          "url": "https://i.ytimg.com/vi/NGCXSXCcUVY/default.jpg"
+         },
+         "medium": {
+          "url": "https://i.ytimg.com/vi/NGCXSXCcUVY/mqdefault.jpg"
+         },
+         "high": {
+          "url": "https://i.ytimg.com/vi/NGCXSXCcUVY/hqdefault.jpg"
+         }
+        },
+        "channelTitle": "TheKarenHunterShow",
+        "liveBroadcastContent": "none"
+       }
+      },
+      {
+       "kind": "youtube#searchResult",
+       "etag": "\"0KG1mRN7bm3nResDPKHQZpg5-do/ZoLWBA52rxCY5We5YDAFqFh-yZ8\"",
+       "id": {
+        "kind": "youtube#video",
+        "videoId": "kePruD2fyCg"
+       },
+       "snippet": {
+        "publishedAt": "2015-07-30T16:15:25.000Z",
+        "channelId": "UCVbKWqUXDRdspaJ2v-prwnQ",
+        "title": "Nile Rodgers On His Success Education",
+        "description": "",
+        "thumbnails": {
+         "default": {
+          "url": "https://i.ytimg.com/vi/kePruD2fyCg/default.jpg"
+         },
+         "medium": {
+          "url": "https://i.ytimg.com/vi/kePruD2fyCg/mqdefault.jpg"
+         },
+         "high": {
+          "url": "https://i.ytimg.com/vi/kePruD2fyCg/hqdefault.jpg"
+         }
+        },
+        "channelTitle": "TheKarenHunterShow",
+        "liveBroadcastContent": "none"
+       }
+      },
+      {
+       "kind": "youtube#searchResult",
+       "etag": "\"0KG1mRN7bm3nResDPKHQZpg5-do/Pty7ZWqYKrT5TdyO9HCp4GYIKnQ\"",
+       "id": {
+        "kind": "youtube#video",
+        "videoId": "86w_1Lb9rKo"
+       },
+       "snippet": {
+        "publishedAt": "2014-12-02T14:25:18.000Z",
+        "channelId": "UCVbKWqUXDRdspaJ2v-prwnQ",
+        "title": "Marc Williamson Flame Keeper",
+        "description": "Marc Williamson, owner of Flame Keepers Hat Club, on 121st Street in Harlem shows off one of his top-selling fedoras. http://www.flamekeepershatclub.com/#!",
+        "thumbnails": {
+         "default": {
+          "url": "https://i.ytimg.com/vi/86w_1Lb9rKo/default.jpg"
+         },
+         "medium": {
+          "url": "https://i.ytimg.com/vi/86w_1Lb9rKo/mqdefault.jpg"
+         },
+         "high": {
+          "url": "https://i.ytimg.com/vi/86w_1Lb9rKo/hqdefault.jpg"
+         }
+        },
+        "channelTitle": "TheKarenHunterShow",
+        "liveBroadcastContent": "none"
+       }
+      },
+      {
+       "kind": "youtube#searchResult",
+       "etag": "\"0KG1mRN7bm3nResDPKHQZpg5-do/3sbnbwF1MTxGktLbh61GuXZSPwM\"",
+       "id": {
+        "kind": "youtube#video",
+        "videoId": "EfNzCV38Cz0"
+       },
+       "snippet": {
+        "publishedAt": "2014-11-15T17:04:28.000Z",
+        "channelId": "UCVbKWqUXDRdspaJ2v-prwnQ",
+        "title": "The Infamous Green Drink",
+        "description": "",
+        "thumbnails": {
+         "default": {
+          "url": "https://i.ytimg.com/vi/EfNzCV38Cz0/default.jpg"
+         },
+         "medium": {
+          "url": "https://i.ytimg.com/vi/EfNzCV38Cz0/mqdefault.jpg"
+         },
+         "high": {
+          "url": "https://i.ytimg.com/vi/EfNzCV38Cz0/hqdefault.jpg"
+         }
+        },
+        "channelTitle": "TheKarenHunterShow",
+        "liveBroadcastContent": "none"
+       }
+      },
+      {
+       "kind": "youtube#searchResult",
+       "etag": "\"0KG1mRN7bm3nResDPKHQZpg5-do/xlbc6c04gOejcwaU5sOnAoRbMwg\"",
+       "id": {
+        "kind": "youtube#video",
+        "videoId": "BbTFLQxMhgc"
+       },
+       "snippet": {
+        "publishedAt": "2014-10-26T22:57:25.000Z",
+        "channelId": "UCVbKWqUXDRdspaJ2v-prwnQ",
+        "title": "Whackest Greeting Ever",
+        "description": "",
+        "thumbnails": {
+         "default": {
+          "url": "https://i.ytimg.com/vi/BbTFLQxMhgc/default.jpg"
+         },
+         "medium": {
+          "url": "https://i.ytimg.com/vi/BbTFLQxMhgc/mqdefault.jpg"
+         },
+         "high": {
+          "url": "https://i.ytimg.com/vi/BbTFLQxMhgc/hqdefault.jpg"
+         }
+        },
+        "channelTitle": "TheKarenHunterShow",
+        "liveBroadcastContent": "none"
+       }
+      },
+      {
+       "kind": "youtube#searchResult",
+       "etag": "\"0KG1mRN7bm3nResDPKHQZpg5-do/Rgg2PUSpCsSo927CA3kdnQxWsPg\"",
+       "id": {
+        "kind": "youtube#video",
+        "videoId": "_ub3Iregxuo"
+       },
+       "snippet": {
+        "publishedAt": "2014-10-21T17:01:00.000Z",
+        "channelId": "UCVbKWqUXDRdspaJ2v-prwnQ",
+        "title": "Shoe Cam Cousin Syl's Boots",
+        "description": "Cousin Syl shows off the boots she got at an outlet. (\"Retail is for suckers!\")",
+        "thumbnails": {
+         "default": {
+          "url": "https://i.ytimg.com/vi/_ub3Iregxuo/default.jpg"
+         },
+         "medium": {
+          "url": "https://i.ytimg.com/vi/_ub3Iregxuo/mqdefault.jpg"
+         },
+         "high": {
+          "url": "https://i.ytimg.com/vi/_ub3Iregxuo/hqdefault.jpg"
+         }
+        },
+        "channelTitle": "TheKarenHunterShow",
+        "liveBroadcastContent": "none"
+       }
+      },
+      {
+       "kind": "youtube#searchResult",
+       "etag": "\"0KG1mRN7bm3nResDPKHQZpg5-do/JrPqOIG-g_b7gUfa1c3S26gk9UE\"",
+       "id": {
+        "kind": "youtube#video",
+        "videoId": "EfgjUVfnz5U"
+       },
+       "snippet": {
+        "publishedAt": "2014-10-16T03:46:33.000Z",
+        "channelId": "UCVbKWqUXDRdspaJ2v-prwnQ",
+        "title": "Ron SockCam",
+        "description": "",
+        "thumbnails": {
+         "default": {
+          "url": "https://i.ytimg.com/vi/EfgjUVfnz5U/default.jpg"
+         },
+         "medium": {
+          "url": "https://i.ytimg.com/vi/EfgjUVfnz5U/mqdefault.jpg"
+         },
+         "high": {
+          "url": "https://i.ytimg.com/vi/EfgjUVfnz5U/hqdefault.jpg"
+         }
+        },
+        "channelTitle": "TheKarenHunterShow",
+        "liveBroadcastContent": "none"
+       }
+      },
+      {
+       "kind": "youtube#searchResult",
+       "etag": "\"0KG1mRN7bm3nResDPKHQZpg5-do/OsSN0r9kpTuyN1zr9yID_Dq6UQc\"",
+       "id": {
+        "kind": "youtube#video",
+        "videoId": "FsjvvgmUszA"
+       },
+       "snippet": {
+        "publishedAt": "2015-07-10T15:45:35.000Z",
+        "channelId": "UCoZHchN_nWN6A1Jy7DpGn4g",
+        "title": "Comic-Con 2015: Friday's Big Events",
+        "description": "Comic-Con 2015: Friday's Big Events Subscribe: https://goo.gl/94oyPj ---------------------- Friday marks the second full day of events at Comic-Con International.",
+        "thumbnails": {
+         "default": {
+          "url": "https://i.ytimg.com/vi/FsjvvgmUszA/default.jpg"
+         },
+         "medium": {
+          "url": "https://i.ytimg.com/vi/FsjvvgmUszA/mqdefault.jpg"
+         },
+         "high": {
+          "url": "https://i.ytimg.com/vi/FsjvvgmUszA/hqdefault.jpg"
+         }
+        },
+        "channelTitle": "",
+        "liveBroadcastContent": "none"
+       }
+      },
+      {
+       "kind": "youtube#searchResult",
+       "etag": "\"0KG1mRN7bm3nResDPKHQZpg5-do/N02Pd-rEuUH6rtXcRYE-6KFuJl4\"",
+       "id": {
+        "kind": "youtube#video",
+        "videoId": "sEMKUfSb00Q"
+       },
+       "snippet": {
+        "publishedAt": "2011-05-07T01:53:44.000Z",
+        "channelId": "UCvw9Dg_qwZq4QUjkoYT55KA",
+        "title": "What is digital publishing? Karen Hunter explains.",
+        "description": "What is digital publishing? How do I become a digital book publisher? Pulitzer Prize-winning journalist Karen Hunter explains what is digital publishing.",
+        "thumbnails": {
+         "default": {
+          "url": "https://i.ytimg.com/vi/sEMKUfSb00Q/default.jpg"
+         },
+         "medium": {
+          "url": "https://i.ytimg.com/vi/sEMKUfSb00Q/mqdefault.jpg"
+         },
+         "high": {
+          "url": "https://i.ytimg.com/vi/sEMKUfSb00Q/hqdefault.jpg"
+         }
+        },
+        "channelTitle": "harlemtalkradio",
+        "liveBroadcastContent": "none"
+       }
+      },
+      {
+       "kind": "youtube#searchResult",
+       "etag": "\"0KG1mRN7bm3nResDPKHQZpg5-do/W1baulzwCMMMhdRX6_IZtde-DTE\"",
+       "id": {
+        "kind": "youtube#video",
+        "videoId": "LH1xsYs5yXQ"
+       },
+       "snippet": {
+        "publishedAt": "2013-10-23T16:16:50.000Z",
+        "channelId": "UCiNTlttMzKDVAOTJBtPENPQ",
+        "title": "Arise Entertainment 360, Karen Hunter",
+        "description": "Pulitzer Prize-winning journalist and Publisher/CEO Karen Hunter joins the show to discuss self publishing a book.",
+        "thumbnails": {
+         "default": {
+          "url": "https://i.ytimg.com/vi/LH1xsYs5yXQ/default.jpg"
+         },
+         "medium": {
+          "url": "https://i.ytimg.com/vi/LH1xsYs5yXQ/mqdefault.jpg"
+         },
+         "high": {
+          "url": "https://i.ytimg.com/vi/LH1xsYs5yXQ/hqdefault.jpg"
+         }
+        },
+        "channelTitle": "AriseENT360",
+        "liveBroadcastContent": "none"
+       }
+      },
+      {
+       "kind": "youtube#searchResult",
+       "etag": "\"0KG1mRN7bm3nResDPKHQZpg5-do/sqrBLx3ut0nU32rs_S-CBEuBNXs\"",
+       "id": {
+        "kind": "youtube#video",
+        "videoId": "dUI-nW1s7tM"
+       },
+       "snippet": {
+        "publishedAt": "2014-11-07T18:15:48.000Z",
+        "channelId": "UC3OuHjcJm1IqFrGhiSpIeUw",
+        "title": "Arise America: “Left, Right, Middle”- Karen Hunter & Horace Cooper Debate",
+        "description": "For Arise America's “Left, Right and Middle” segment, award-winning journalist Karen Hunter and Washington Attorney Horace Cooper have a spirited debate ...",
+        "thumbnails": {
+         "default": {
+          "url": "https://i.ytimg.com/vi/dUI-nW1s7tM/default.jpg"
+         },
+         "medium": {
+          "url": "https://i.ytimg.com/vi/dUI-nW1s7tM/mqdefault.jpg"
+         },
+         "high": {
+          "url": "https://i.ytimg.com/vi/dUI-nW1s7tM/hqdefault.jpg"
+         }
+        },
+        "channelTitle": "AriseAmericaTV",
+        "liveBroadcastContent": "none"
+       }
+      },
+      {
+       "kind": "youtube#searchResult",
+       "etag": "\"0KG1mRN7bm3nResDPKHQZpg5-do/jT4XCYZ8uR3cRF-tdlAR1YDgkoI\"",
+       "id": {
+        "kind": "youtube#video",
+        "videoId": "PDY4c-rnNr4"
+       },
+       "snippet": {
+        "publishedAt": "2014-02-07T22:38:10.000Z",
+        "channelId": "UCnJQhbdFn-_Crs21-X8XFrQ",
+        "title": "Magic Johnson discusses AIDS awareness day- Joe Madison | The Black Eagle",
+        "description": "Joe Madison, \"The Black Eagle\" — Eagle's Nest Studios, Joe Madison interviewed, NBA legend, entrepreneur and activist Magic Johnson. Johnson stopped in ...",
+        "thumbnails": {
+         "default": {
+          "url": "https://i.ytimg.com/vi/PDY4c-rnNr4/default.jpg"
+         },
+         "medium": {
+          "url": "https://i.ytimg.com/vi/PDY4c-rnNr4/mqdefault.jpg"
+         },
+         "high": {
+          "url": "https://i.ytimg.com/vi/PDY4c-rnNr4/hqdefault.jpg"
+         }
+        },
+        "channelTitle": "BlackEaglePower",
+        "liveBroadcastContent": "none"
+       }
+      },
+      {
+       "kind": "youtube#searchResult",
+       "etag": "\"0KG1mRN7bm3nResDPKHQZpg5-do/Ob7rBo0hXTzf-K4IdvpBTzzy-pg\"",
+       "id": {
+        "kind": "youtube#video",
+        "videoId": "KPyjcN2__4c"
+       },
+       "snippet": {
+        "publishedAt": "2015-06-02T17:17:43.000Z",
+        "channelId": "UCsEVEvY8vir8dyFjMcSG2Ow",
+        "title": "Karen Says Talk Show Ep 1",
+        "description": "Hello Beautiful People! I was so excited to take part in the Beauty Bubble, a monthly segment of Karen Says! Karen Says is an engaging new web talk show for ...",
+        "thumbnails": {
+         "default": {
+          "url": "https://i.ytimg.com/vi/KPyjcN2__4c/default.jpg"
+         },
+         "medium": {
+          "url": "https://i.ytimg.com/vi/KPyjcN2__4c/mqdefault.jpg"
+         },
+         "high": {
+          "url": "https://i.ytimg.com/vi/KPyjcN2__4c/hqdefault.jpg"
+         }
+        },
+        "channelTitle": "AfroStateofMind",
+        "liveBroadcastContent": "none"
+       }
+      },
+      {
+       "kind": "youtube#searchResult",
+       "etag": "\"0KG1mRN7bm3nResDPKHQZpg5-do/HkEhjmGWiIKk_jc8O5U4g3r7Hpo\"",
+       "id": {
+        "kind": "youtube#video",
+        "videoId": "fPHnXrU5JzU"
+       },
+       "snippet": {
+        "publishedAt": "2007-02-05T02:59:33.000Z",
+        "channelId": "UCxr8hp8ff-pQ5EtJBwZemYA",
+        "title": "Paula Zahn - discrimination against atheists part 2",
+        "description": "From late January, 2007.",
+        "thumbnails": {
+         "default": {
+          "url": "https://i.ytimg.com/vi/fPHnXrU5JzU/default.jpg"
+         },
+         "medium": {
+          "url": "https://i.ytimg.com/vi/fPHnXrU5JzU/mqdefault.jpg"
+         },
+         "high": {
+          "url": "https://i.ytimg.com/vi/fPHnXrU5JzU/hqdefault.jpg"
+         }
+        },
+        "channelTitle": "benjdm",
+        "liveBroadcastContent": "none"
+       }
+      },
+      {
+       "kind": "youtube#searchResult",
+       "etag": "\"0KG1mRN7bm3nResDPKHQZpg5-do/-xD6RM-SlNVZeFVR4lO9kuZixMk\"",
+       "id": {
+        "kind": "youtube#video",
+        "videoId": "ii0o7CcR7TY"
+       },
+       "snippet": {
+        "publishedAt": "2015-05-26T14:01:58.000Z",
+        "channelId": "UC13X96yuM8nQQT6SfgkKyfw",
+        "title": "50 Cent & The POWER Cast Sit Down To Discuss Season 2 W/ Karen Hunter",
+        "description": "POWER season 2 returns June 6th on the STARZ network. Karen Hunter interviews the entire cast of Starz Power (50 Cent, Naturi Naughton, Rotimi, Joseph ...",
+        "thumbnails": {
+         "default": {
+          "url": "https://i.ytimg.com/vi/ii0o7CcR7TY/default.jpg"
+         },
+         "medium": {
+          "url": "https://i.ytimg.com/vi/ii0o7CcR7TY/mqdefault.jpg"
+         },
+         "high": {
+          "url": "https://i.ytimg.com/vi/ii0o7CcR7TY/hqdefault.jpg"
+         }
+        },
+        "channelTitle": "MoneyStacksMatt",
+        "liveBroadcastContent": "none"
+       }
+      },
+      {
+       "kind": "youtube#searchResult",
+       "etag": "\"0KG1mRN7bm3nResDPKHQZpg5-do/fKxMJW9hz2df6a3qW1_o3D5bdeU\"",
+       "id": {
+        "kind": "youtube#video",
+        "videoId": "sX6NjEgz7wA"
+       },
+       "snippet": {
+        "publishedAt": "2015-01-28T10:03:34.000Z",
+        "channelId": "UChHAk97MIj6AhbVigYAqyKw",
+        "title": "Dr. Umar Johnson \"What Black People Must Do in 2015\"",
+        "description": "to donate go to: http://www.drumarjohnson.com.",
+        "thumbnails": {
+         "default": {
+          "url": "https://i.ytimg.com/vi/sX6NjEgz7wA/default.jpg"
+         },
+         "medium": {
+          "url": "https://i.ytimg.com/vi/sX6NjEgz7wA/mqdefault.jpg"
+         },
+         "high": {
+          "url": "https://i.ytimg.com/vi/sX6NjEgz7wA/hqdefault.jpg"
+         }
+        },
+        "channelTitle": "blackmagik363",
+        "liveBroadcastContent": "none"
+       }
+      },
+      {
+       "kind": "youtube#searchResult",
+       "etag": "\"0KG1mRN7bm3nResDPKHQZpg5-do/rp6uTReHTTc7m39Rj9VKImy8XM4\"",
+       "id": {
+        "kind": "youtube#video",
+        "videoId": "lUqNJiBnuS0"
+       },
+       "snippet": {
+        "publishedAt": "2015-03-07T03:09:59.000Z",
+        "channelId": "UCuS96jkLKpTaGB_OWnwZV_A",
+        "title": "First Aid With Kelly Kinkaid: Salutes Women's History Month with Karen Hunter",
+        "description": "Celebrating March Women's History Month, Karen Hunter joins First Aid With Kelly Kinkaid on Sway In The Morning to speak on her success as a writer, ...",
+        "thumbnails": {
+         "default": {
+          "url": "https://i.ytimg.com/vi/lUqNJiBnuS0/default.jpg"
+         },
+         "medium": {
+          "url": "https://i.ytimg.com/vi/lUqNJiBnuS0/mqdefault.jpg"
+         },
+         "high": {
+          "url": "https://i.ytimg.com/vi/lUqNJiBnuS0/hqdefault.jpg"
+         }
+        },
+        "channelTitle": "SwaysUniverse",
+        "liveBroadcastContent": "none"
+       }
+      },
+      {
+       "kind": "youtube#searchResult",
+       "etag": "\"0KG1mRN7bm3nResDPKHQZpg5-do/QQyN05Tw4PRl-zBvNiyfKGDwla8\"",
+       "id": {
+        "kind": "youtube#video",
+        "videoId": "9-dm5dXKmkg"
+       },
+       "snippet": {
+        "publishedAt": "2013-05-22T16:59:39.000Z",
+        "channelId": "UC7DEAK594FZKEItngrMcg-w",
+        "title": "05/15/13 Arise America, Karen Hunter and David Webb",
+        "description": "www.Arise.TV - Journalist, author and publisher, Karen Hunter along with Sirius XM radio talk show host, David Webb discussed the Benghazi hearings, IRS ...",
+        "thumbnails": {
+         "default": {
+          "url": "https://i.ytimg.com/vi/9-dm5dXKmkg/default.jpg"
+         },
+         "medium": {
+          "url": "https://i.ytimg.com/vi/9-dm5dXKmkg/mqdefault.jpg"
+         },
+         "high": {
+          "url": "https://i.ytimg.com/vi/9-dm5dXKmkg/hqdefault.jpg"
+         }
+        },
+        "channelTitle": "davidwebbshow",
+        "liveBroadcastContent": "none"
+       }
+      },
+      {
+       "kind": "youtube#searchResult",
+       "etag": "\"0KG1mRN7bm3nResDPKHQZpg5-do/By7Hcr1nqxWgwUGFQYOOHs5FFB8\"",
+       "id": {
+        "kind": "youtube#channel",
+        "channelId": "UCnJQhbdFn-_Crs21-X8XFrQ"
+       },
+       "snippet": {
+        "publishedAt": "2012-01-06T16:22:40.000Z",
+        "channelId": "UCnJQhbdFn-_Crs21-X8XFrQ",
+        "title": "BlackEaglePower",
+        "description": "Madison is on the case, talking about politics and social activism while challenging the status quo and ensuring that people of color are not undervalued, ...",
+        "thumbnails": {
+         "default": {
+          "url": "https://lh6.googleusercontent.com/-dXj9vZUInPI/AAAAAAAAAAI/AAAAAAAAAAA/THYgQamu3sk/photo.jpg"
+         },
+         "medium": {
+          "url": "https://lh6.googleusercontent.com/-dXj9vZUInPI/AAAAAAAAAAI/AAAAAAAAAAA/THYgQamu3sk/photo.jpg"
+         },
+         "high": {
+          "url": "https://lh6.googleusercontent.com/-dXj9vZUInPI/AAAAAAAAAAI/AAAAAAAAAAA/THYgQamu3sk/photo.jpg"
+         }
+        },
+        "channelTitle": "BlackEaglePower",
+        "liveBroadcastContent": "none"
+       }
+      },
+      {
+       "kind": "youtube#searchResult",
+       "etag": "\"0KG1mRN7bm3nResDPKHQZpg5-do/IshsiCiKvpZhQzF58qQ9_-KtX1Y\"",
+       "id": {
+        "kind": "youtube#video",
+        "videoId": "yRhbtPQ7eTk"
+       },
+       "snippet": {
+        "publishedAt": "2014-12-03T06:25:32.000Z",
+        "channelId": "UCd6eJuH-x3ceZMA5UWfkr5Q",
+        "title": "TRISH VAN BUREN OF HIPHOTIC TALKS WITH KAREN HUNTER OF SIRIUS XM URBAN VIEW RADIO",
+        "description": "TRISH VAN BUREN TALKS ABOUT SOLUTIONS THROUGH THE END OBESITY TOUR 2015 IN AMERICA. ASK HOW YOU CAN BECOME A PART OF THE ...",
+        "thumbnails": {
+         "default": {
+          "url": "https://i.ytimg.com/vi/yRhbtPQ7eTk/default.jpg"
+         },
+         "medium": {
+          "url": "https://i.ytimg.com/vi/yRhbtPQ7eTk/mqdefault.jpg"
+         },
+         "high": {
+          "url": "https://i.ytimg.com/vi/yRhbtPQ7eTk/hqdefault.jpg"
+         }
+        },
+        "channelTitle": "",
+        "liveBroadcastContent": "none"
+       }
+      },
+      {
+       "kind": "youtube#searchResult",
+       "etag": "\"0KG1mRN7bm3nResDPKHQZpg5-do/uUhW8xhKBCtI6FEk_27cl4TpMR8\"",
+       "id": {
+        "kind": "youtube#video",
+        "videoId": "u_XGZByFn7M"
+       },
+       "snippet": {
+        "publishedAt": "2014-04-25T06:56:22.000Z",
+        "channelId": "UCrJMlkw5UhABcWaDUB7Z7UA",
+        "title": "Dr Umar Johnson teaches Jesse L. Peterson",
+        "description": "http://www.drumarjohnson.com/ http://twitter.com/DrUmarJohnson.",
+        "thumbnails": {
+         "default": {
+          "url": "https://i.ytimg.com/vi/u_XGZByFn7M/default.jpg"
+         },
+         "medium": {
+          "url": "https://i.ytimg.com/vi/u_XGZByFn7M/mqdefault.jpg"
+         },
+         "high": {
+          "url": "https://i.ytimg.com/vi/u_XGZByFn7M/hqdefault.jpg"
+         }
+        },
+        "channelTitle": "TheSantanaLife",
+        "liveBroadcastContent": "none"
+       }
+      },
+      {
+       "kind": "youtube#searchResult",
+       "etag": "\"0KG1mRN7bm3nResDPKHQZpg5-do/4bNDUQDLtkGYHHP5lK_nHw14miE\"",
+       "id": {
+        "kind": "youtube#video",
+        "videoId": "q_3B4OCI70Q"
+       },
+       "snippet": {
+        "publishedAt": "2015-03-11T16:36:43.000Z",
+        "channelId": "UCVYg--u7CHEtC8HP368i7jw",
+        "title": "Karen Hunter with Young Faces Smiling",
+        "description": "A Reality Classroom Adventure!",
+        "thumbnails": {
+         "default": {
+          "url": "https://i.ytimg.com/vi/q_3B4OCI70Q/default.jpg"
+         },
+         "medium": {
+          "url": "https://i.ytimg.com/vi/q_3B4OCI70Q/mqdefault.jpg"
+         },
+         "high": {
+          "url": "https://i.ytimg.com/vi/q_3B4OCI70Q/hqdefault.jpg"
+         }
+        },
+        "channelTitle": "YoungFacesSmiling",
+        "liveBroadcastContent": "none"
+       }
+      }
+    ]
+  },
+  "quotes" : [
+    {
+      "speaker" : "Samuel L. Jackson",
+      "text" : "Now that there is the Tec-9, a crappy spray gun from South Miami. This gun is advertised as the most popular gun in American crime. Do you believe that shit? It actually says that in the little book that comes with it: the most popular gun in American crime. Like they're actually proud of that shit."
+    }
+  ],
+}
