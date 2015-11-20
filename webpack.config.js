@@ -7,6 +7,7 @@ module.exports = {
     "web-animations.min",
     "moment",
     "zone.js",
+    "cordova-js"
     path.join(__dirname, 'www', 'app', 'app.js')
   ],
   output: {
@@ -47,7 +48,8 @@ module.exports = {
       "node_modules",
       "node_modules/ionic-framework/node_modules", // angular is a dependency of ionic
       "node_modules/ionic-framework/dist/js", // for web-animations polyfill
-      "node_modules/ionic-framework/dist/src/es5/common" // ionic-framework npm package
+      "node_modules/ionic-framework/dist/src/es5/common",  // ionic-framework npm package
+      'node_modules/cordova-js/src/'
     ],
     extensions: ["", ".js", ".ts"]
   },

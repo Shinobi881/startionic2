@@ -12,7 +12,7 @@
         <ion-header (click)="playMedia">
           Soundcloud Stream
         </ion-header>
-        <button ion-item><a (click)="playMedia(stream)" href="{{stream.source}}">{{ stream.title }}</a></button>
+        <button ion-item (click)="playMedia(stream)">{{ stream.title }}</button>
         
       </ion-list>
     </ion-card-content>
