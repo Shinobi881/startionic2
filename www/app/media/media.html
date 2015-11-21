@@ -12,6 +12,10 @@
         <ion-header (click)="playMedia">
           Soundcloud Stream
         </ion-header>
+
+        <!-- In order to set inappbrowser options links must not be anchr tags -->
+        <!-- <button ion-item (click)="playMedia(stream)"><a  href="{{stream.source}}">{{ stream.title }}</a></button> -->
+
         <button ion-item (click)="playMedia(stream)">{{ stream.title }}</button>
         
       </ion-list>
