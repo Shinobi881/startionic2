@@ -7,7 +7,7 @@ module.exports = {
     "web-animations.min",
     "moment",
     "zone.js",
-    "cordova-js"
+    // "cordova-js", 
     path.join(__dirname, 'www', 'app', 'app.js')
   ],
   output: {
